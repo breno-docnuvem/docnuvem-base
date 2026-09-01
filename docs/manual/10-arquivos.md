@@ -122,7 +122,7 @@ O Docnuvem pode disparar solicitações automáticas de assinatura para vários 
 Em cenários configurados com apoio da IA, o sistema identifica participantes a partir de dados de CPF ou CNPJ presentes no arquivo e associa cada assinatura ao signatário correspondente. Use este recurso em fluxos que exigem a participação simultânea de vários responsáveis — a automação reduz a necessidade de configuração manual a cada envio.
 
 !!! info "Importante"
-    Para criar novos modelos ou alterar parametrizações existentes, a equipe de suporte deve ajustar a configuração antes do uso. Para preparar o tipo de documento, veja [Como configurar posição das assinaturas para assinatura em massa](#como-configurar-posição-das-assinaturas-para-assinatura-em-massa).
+    Para criar novos modelos ou alterar parametrizações existentes, a equipe de suporte deve ajustar a configuração antes do uso. Para preparar o tipo de documento, veja [Como configurar posição das assinaturas para assinatura em massa](#como-configurar-posicao-das-assinaturas-para-assinatura-em-massa).
 
 **Resultado esperado:** as solicitações de assinatura podem ser disparadas automaticamente para diversos assinantes no mesmo documento, desde que a parametrização esteja configurada.
 

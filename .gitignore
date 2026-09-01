@@ -1,0 +1,11 @@
+# build output
+site/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# Obsidian local UI state (não é conteúdo do vault)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json

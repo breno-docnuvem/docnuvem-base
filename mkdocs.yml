@@ -1,0 +1,80 @@
+site_name: Docnuvem — Documentação
+site_description: Manual do Sistema, Central de Ajuda e Base de Conhecimento Interna do Docnuvem
+site_url: https://breno-docnuvem.github.io/docnuvem-base/
+repo_url: https://github.com/breno-docnuvem/docnuvem-base
+repo_name: docnuvem-base
+docs_dir: docs
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Alternar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Alternar para modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: pt
+
+nav:
+  - Início: index.md
+  - Manual do Sistema:
+      - Visão geral: manual/index.md
+      - Antes de começar: manual/01-antes-de-comecar.md
+      - Acessando o Sistema: manual/02-acessando-o-sistema.md
+      - Dashboard: manual/03-dashboard.md
+      - Meus Documentos: manual/04-meus-documentos.md
+      - Busca Avançada: manual/05-busca-avancada.md
+      - Notificações: manual/06-notificacoes.md
+      - Meus Cadastros: manual/07-meus-cadastros.md
+      - Meus Modelos: manual/08-meus-modelos.md
+      - Tipos Cadastrados: manual/09-tipos-cadastrados.md
+      - Arquivos: manual/10-arquivos.md
+      - Módulo de Tarefas: manual/11-modulo-de-tarefas.md
+      - Auditoria: manual/12-auditoria.md
+      - Lixeira: manual/13-lixeira.md
+      - Relatórios: manual/14-relatorios.md
+      - Assistente IADoc: manual/15-assistente-iadoc.md
+      - Perguntas Frequentes: manual/16-perguntas-frequentes.md
+  - Central de Ajuda:
+      - Visão geral: central-de-ajuda/index.md
+      - Visão geral do sistema: central-de-ajuda/visao-geral.md
+      - Fluxos essenciais: central-de-ajuda/fluxos-essenciais.md
+      - Diagnóstico e troubleshooting: central-de-ajuda/diagnostico-troubleshooting.md
+      - Perguntas frequentes: central-de-ajuda/faq.md
+      - Glossário: central-de-ajuda/glossario.md
+  - Base de Conhecimento Interna:
+      - Visão geral: base-de-conhecimento/index.md
+      - Plano de contingência: base-de-conhecimento/contingencia.md
+      - Implantação: base-de-conhecimento/implantacao/index.md
+      - Suporte: base-de-conhecimento/suporte/index.md

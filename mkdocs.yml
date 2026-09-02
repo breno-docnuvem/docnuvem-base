@@ -76,5 +76,15 @@ nav:
   - Base de Conhecimento Interna:
       - Visão geral: base-de-conhecimento/index.md
       - Plano de contingência: base-de-conhecimento/contingencia.md
-      - Implantação: base-de-conhecimento/implantacao/index.md
+      - Implantação:
+          - Visão geral do processo: base-de-conhecimento/implantacao/index.md
+          - 1. Início do processo: base-de-conhecimento/implantacao/01-inicio-do-processo.md
+          - 2. Configurações da empresa: base-de-conhecimento/implantacao/02-configuracoes-da-empresa.md
+          - 3. Outras configurações: base-de-conhecimento/implantacao/03-outras-configuracoes.md
+          - 4. Configurações avançado: base-de-conhecimento/implantacao/04-configuracoes-avancado.md
+          - 5. Funcionalidades Enterprise: base-de-conhecimento/implantacao/05-funcionalidades-enterprise.md
+          - 6. Cadastro do primeiro usuário: base-de-conhecimento/implantacao/06-cadastro-do-primeiro-usuario.md
+          - 7. Cadastro do contato no Digisac: base-de-conhecimento/implantacao/07-cadastro-do-contato-no-digisac.md
+          - 8. Script de primeiro contato: base-de-conhecimento/implantacao/08-script-de-primeiro-contato.md
+          - 9. Envio da playlist (Standard): base-de-conhecimento/implantacao/09-envio-da-playlist-standard.md
       - Suporte: base-de-conhecimento/suporte/index.md

@@ -30,19 +30,17 @@ Quando é preciso estruturar mais de uma empresa (matriz, filiais ou outras empr
 >
 > **Exemplo:**
 >
-> 📁 Administrativo
-> ↳ 📁 Contratos
-> ↳ 📁 Documentos societários
->
-> 📁 Financeiro
-> ↳ 📁 Notas fiscais
-> ↳ 📁 Comprovantes
-> ↳ 📁 Relatórios
->
-> 📁 Recursos Humanos
-> ↳ 📁 Colaboradores
-> ↳ 📁 Admissões
-> ↳ 📁 Desligamentos
+> - 📁 Administrativo
+>     - 📁 Contratos
+>     - 📁 Documentos societários
+> - 📁 Financeiro
+>     - 📁 Notas fiscais
+>     - 📁 Comprovantes
+>     - 📁 Relatórios
+> - 📁 Recursos Humanos
+>     - 📁 Colaboradores
+>     - 📁 Admissões
+>     - 📁 Desligamentos
 >
 > Não é necessário seguir esse modelo; ele serve apenas como referência. O ideal é que a estrutura reflita a rotina e a forma de organização da empresa.
 >

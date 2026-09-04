@@ -1,0 +1,28 @@
+/* Identidade visual Docnuvem
+   Primária:  #101820 (navy)
+   Secundária: #196bfb (azul)
+   Terciária: #f2f2f2 (quase-branco)
+   Ver: theme.palette (primary/accent: custom) em mkdocs.yml */
+
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: #101820;
+  --md-primary-fg-color--light: #343b41;
+  --md-primary-fg-color--dark: #0e141b;
+  --md-primary-bg-color: #f2f2f2;
+  --md-primary-bg-color--light: #f2f2f2;
+}
+
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color: #196bfb;
+  --md-accent-fg-color--transparent: #196bfb1a;
+  --md-accent-bg-color: #f2f2f2;
+  --md-accent-bg-color--light: #f2f2f2;
+}
+
+/* Logo no cabeçalho: a arte é um wordmark (150x32), então damos mais
+   espaço horizontal do que o ícone quadrado padrão do tema. */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 1.4rem;
+  width: auto;
+}

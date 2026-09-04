@@ -6,41 +6,72 @@ Logo após cadastrar o contato no Digisac (ver [07 - Cadastro do contato no Digi
 
 ## Passo a passo
 
+### Script padrão (mais de um usuário)
+
 Envie a mensagem abaixo pelo WhatsApp da implantação, adaptando conforme a necessidade do cliente:
 
 > Olá, [Nome do cliente]! Tudo bem?
-> Me chamo [Seu nome] e serei o responsável pela implantação da Docnuvem com vocês a partir de agora. Para iniciarmos, já realizamos o cadastro do usuário administrador do sistema. Seguem abaixo os dados de acesso:
 >
-> Link de acesso: [Inserir link]
-> Usuário/E-mail: [Inserir e-mail]
-> Senha provisória: [Inserir senha]
+> Meu nome é [Seu nome] e, a partir de agora, serei o responsável por conduzir a implantação da Docnuvem junto à sua equipe.
 >
-> No primeiro acesso, recomendamos que a senha seja alterada.
-> Caso seja necessário cadastrar outros administradores ou usuários, basta nos encaminhar as seguintes informações:
+> Para darmos início ao processo, já realizamos a criação do usuário administrador da plataforma. Seguem os dados de acesso:
+>
+> **Link de acesso:** [Inserir link]
+> **Usuário/E-mail:** [Inserir e-mail]
+> **Senha provisória:** [Inserir senha]
+>
+> No primeiro acesso, recomendamos a alteração da senha provisória.
+>
+> Caso seja necessário cadastrar outros administradores ou usuários neste momento, basta nos encaminhar os seguintes dados de cada pessoa:
 >
 > - Nome completo
 > - CPF
 > - E-mail
 > - Telefone
 >
-> Permaneço à disposição para apoiá-los durante todo o processo de implantação.
-
-### Se a identidade visual foi contratada
-
-Envie também esta segunda mensagem, na sequência:
-
-> Para cadastrarmos a identidade visual do sistema com a sua marca, vou te passar as orientações para que me envie os materiais:
+> Assim que realizarem o primeiro acesso, peço, por gentileza, que nos confirmem para que possamos seguir com as próximas etapas da implantação.
 >
-> - Cores da identidade visual: até 4 cores principais (em código hexadecimal ou RGB).
-> - Logotipos (150x32 px): duas versões da logo, uma para uso sobre fundo branco e outra para uso sobre a cor primária definida.
-> - Favicon (32x32 px): arquivo em PNG para exibição na barra de guias do navegador.
-> - Tela de login: escolha entre duas opções —
->     - Opção A: tela de login simples (sem banner).
->     - Opção B: tela de login com banner lateral (nesse caso, envie também uma imagem de 480x540 px).
->
-> Ao final desta mensagem, vou te encaminhar um print com as duas opções de tela de login para facilitar a escolha. Assim que eu receber essas informações, seguimos para a próxima etapa da implantação.
+> Estarei acompanhando vocês durante todo o processo e fico à disposição para apoiá-los no que for necessário.
 
-![Print com as duas opções de tela de login para enviar ao cliente.](images/08-script-de-primeiro-contato/01-opcoes-tela-de-login-identidade-visual.png)
+### Caso apenas um usuário tenha sido contratado
+
+> Olá, [Nome do cliente]! Tudo bem?
+>
+> Meu nome é [Seu nome] e, a partir de agora, serei o responsável por conduzir a implantação da Docnuvem com vocês.
+>
+> Para iniciarmos, já realizamos o cadastro do usuário administrador da plataforma. Seguem os dados de acesso:
+>
+> **Link de acesso:** [Inserir link]
+> **Usuário/E-mail:** [Inserir e-mail]
+> **Senha provisória:** [Inserir senha]
+>
+> No primeiro acesso, recomendamos a alteração da senha provisória.
+>
+> Assim que realizar o primeiro acesso, peço, por gentileza, que me confirme para que possamos seguir com as próximas etapas da implantação.
+>
+> Estarei acompanhando todo o processo e fico à disposição para apoiá-lo no que for necessário.
+
+## Se não houver resposta
+
+Depois de enviar os dados de acesso, aguarde a confirmação do primeiro acesso do cliente. Se não vier em tempo razoável, envie os lembretes abaixo, nesta ordem.
+
+### Lembrete
+
+> Olá, [Nome do cliente]! Tudo bem?
+>
+> Passando para confirmar se conseguiu realizar o primeiro acesso à Docnuvem com os dados que encaminhei.
+>
+> Esse acesso é importante para validarmos o início da implantação e seguirmos com as próximas etapas.
+>
+> Caso tenha encontrado qualquer dificuldade para acessar, me avise que te apoio por aqui.
+
+### Cobrança
+
+> Ainda não identificamos a confirmação do primeiro acesso à Docnuvem.
+>
+> Precisamos dessa validação para avançarmos com a implantação e evitarmos impacto no cronograma das próximas etapas.
+>
+> Peço, por gentileza, que realize o acesso e me confirme assim que possível. Se houver qualquer impedimento, me sinalize para que possamos atuar juntos na resolução.
 
 ## Se travar
 
@@ -49,4 +80,6 @@ Reporte no grupo de Implantações.
 ## Relacionados
 
 - [Processo de Implantação](index.md)
-- Anterior: [07 - Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md) · Próxima etapa: [09 - Envio da playlist (Standard)](09-envio-da-playlist-standard.md) — *apenas Standard*
+- Anterior: [07 - Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md)
+- Se a identidade visual foi contratada, envie em seguida [09 - Identidade visual](09-identidade-visual.md)
+- Próxima etapa (plano Standard): [10 - Envio da playlist (Standard)](10-envio-da-playlist-standard.md)

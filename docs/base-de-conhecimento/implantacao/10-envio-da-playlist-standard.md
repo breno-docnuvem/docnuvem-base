@@ -1,8 +1,8 @@
-# 09 - Envio da playlist (Standard)
+# 10 - Envio da playlist (Standard)
 
 ## Quando se aplica
 
-Apenas para clientes do **plano Standard**, logo após o script de primeiro contato (ver [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)).
+Apenas para clientes do **plano Standard**, logo após o script de primeiro contato (ver [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)) e, se aplicável, a identidade visual (ver [09 - Identidade visual](09-identidade-visual.md)).
 
 ## Passo a passo
 
@@ -20,6 +20,8 @@ Envie a mensagem abaixo, com a trilha de materiais e o contato do suporte:
 
 A implantação do plano Standard é considerada concluída assim que o cliente faz o primeiro acesso ao sistema.
 
+<!-- TODO: confirmar com Breno se as etapas 11-16 (modelos de documentos, empresas/diretórios, treinamento, envio inteligente, finalização) também se aplicam a clientes Standard quando esses itens forem contratados, ou se são exclusivas do plano Enterprise — esta nota diz que o Standard encerra aqui, mas as novas etapas não têm essa restrição explícita. -->
+
 ## Se travar
 
 Se o cliente não responder ou não fizer o primeiro acesso, continuar as cobranças e reportar à Jéssica e ao Igor.
@@ -27,4 +29,4 @@ Se o cliente não responder ou não fizer o primeiro acesso, continuar as cobran
 ## Relacionados
 
 - [Processo de Implantação](index.md)
-- Anterior: [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)
+- Anterior: [08 - Script de primeiro contato](08-script-de-primeiro-contato.md) / [09 - Identidade visual](09-identidade-visual.md)

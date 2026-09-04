@@ -8,18 +8,20 @@ docs_dir: docs
 theme:
   name: material
   language: pt
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Alternar para modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Alternar para modo claro
@@ -33,6 +35,9 @@ theme:
     - content.action.edit
   icon:
     repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -88,5 +93,13 @@ nav:
           - Primeiro contato com o cliente:
               - 7. Cadastro do contato no Digisac: base-de-conhecimento/implantacao/07-cadastro-do-contato-no-digisac.md
               - 8. Script de primeiro contato: base-de-conhecimento/implantacao/08-script-de-primeiro-contato.md
-              - 9. Envio da playlist (Standard): base-de-conhecimento/implantacao/09-envio-da-playlist-standard.md
+              - 9. Identidade visual: base-de-conhecimento/implantacao/09-identidade-visual.md
+              - 10. Envio da playlist (Standard): base-de-conhecimento/implantacao/10-envio-da-playlist-standard.md
+          - Configuração dos itens contratados e treinamento:
+              - 11. Solicitação de modelos de documentos: base-de-conhecimento/implantacao/11-solicitacao-modelos-documentos.md
+              - 12. Cadastro de empresas e diretórios: base-de-conhecimento/implantacao/12-cadastro-de-empresas-e-diretorios.md
+              - 13. Agendamento do treinamento: base-de-conhecimento/implantacao/13-agendamento-do-treinamento.md
+              - 14. Envio da gravação do treinamento: base-de-conhecimento/implantacao/14-envio-da-gravacao-do-treinamento.md
+              - 15. Solicitação do envio inteligente: base-de-conhecimento/implantacao/15-solicitacao-do-envio-inteligente.md
+              - 16. Finalização da implantação: base-de-conhecimento/implantacao/16-finalizacao-da-implantacao.md
       - Suporte: base-de-conhecimento/suporte/index.md

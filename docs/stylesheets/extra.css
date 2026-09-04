@@ -19,6 +19,16 @@
   --md-accent-bg-color--light: #f2f2f2;
 }
 
+/* No modo escuro, links de conteúdo e o item ativo do menu lateral usam
+   --md-typeset-a-color, que por padrão espelha a cor primária (#101820).
+   Isso fica ilegível sobre o fundo escuro do modo slate, então trocamos
+   por branco-quase (terciária) nesse modo — o hover continua usando o
+   azul secundário (--md-accent-fg-color), então o link ainda se destaca
+   ao passar o mouse. */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+  --md-typeset-a-color: #f2f2f2;
+}
+
 /* Logo no cabeçalho: a arte é um wordmark (150x32), então damos mais
    espaço horizontal do que o ícone quadrado padrão do tema. */
 .md-header__button.md-logo img,

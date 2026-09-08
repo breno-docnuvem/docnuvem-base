@@ -18,7 +18,7 @@ Depois de concluídos o cadastro de modelos de documentos (se aplicável, ver [1
 >
 > Também é importante que participem do treinamento os usuários que utilizarão a Docnuvem no dia a dia e, principalmente, as pessoas responsáveis pela administração ou acompanhamento da operação.
 >
-> **Duração prevista:** [XX minutos / XX horas]
+> **Duração prevista:** [XX minutos / XX horas]<br>
 > **Formato:** [Online – Microsoft Teams/Google Meet/etc.]
 >
 > Assim que receber as opções de horário, confirmo o agendamento e encaminho o convite da reunião.

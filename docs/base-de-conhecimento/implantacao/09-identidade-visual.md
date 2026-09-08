@@ -12,19 +12,19 @@ Apenas quando a identidade visual foi contratada. Enviar logo após o script de 
 >
 > Para realizarmos essa personalização, preciso que me encaminhem os seguintes materiais e definições:
 >
-> **🎨 Cores da identidade visual**
+> **🎨 Cores da identidade visual**<br>
 > Até **4 cores principais**, preferencialmente em código **Hexadecimal (HEX)** ou **RGB**.
 >
-> **🖼️ Logotipos — 150 x 32 px**
+> **🖼️ Logotipos — 150 x 32 px**<br>
 > Precisamos de duas versões da logo:
 >
 > - Uma para utilização sobre **fundo branco**;
 > - Uma para utilização sobre a **cor primária** definida.
 >
-> **🌐 Favicon — 32 x 32 px**
+> **🌐 Favicon — 32 x 32 px**<br>
 > Arquivo em formato **PNG**, que será utilizado na guia do navegador.
 >
-> **🔐 Tela de login**
+> **🔐 Tela de login**<br>
 > Vocês poderão escolher entre duas opções:
 >
 > - **Opção A:** tela de login simples, sem banner;

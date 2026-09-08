@@ -16,8 +16,8 @@ Envie a mensagem abaixo pelo WhatsApp da implantação, adaptando conforme a nec
 >
 > Para darmos início ao processo, já realizamos a criação do usuário administrador da plataforma. Seguem os dados de acesso:
 >
-> **Link de acesso:** [Inserir link]
-> **Usuário/E-mail:** [Inserir e-mail]
+> **Link de acesso:** [Inserir link]<br>
+> **Usuário/E-mail:** [Inserir e-mail]<br>
 > **Senha provisória:** [Inserir senha]
 >
 > No primeiro acesso, recomendamos a alteração da senha provisória.
@@ -41,8 +41,8 @@ Envie a mensagem abaixo pelo WhatsApp da implantação, adaptando conforme a nec
 >
 > Para iniciarmos, já realizamos o cadastro do usuário administrador da plataforma. Seguem os dados de acesso:
 >
-> **Link de acesso:** [Inserir link]
-> **Usuário/E-mail:** [Inserir e-mail]
+> **Link de acesso:** [Inserir link]<br>
+> **Usuário/E-mail:** [Inserir e-mail]<br>
 > **Senha provisória:** [Inserir senha]
 >
 > No primeiro acesso, recomendamos a alteração da senha provisória.

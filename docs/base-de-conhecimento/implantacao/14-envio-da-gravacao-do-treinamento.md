@@ -16,7 +16,7 @@ Logo após a realização do treinamento agendado em [13 - Agendamento do treina
 >
 > A partir de agora, caso surjam dúvidas durante a utilização da Docnuvem ou precisem de apoio em alguma funcionalidade, nosso **time de Suporte está à disposição para ajudá-los**.
 >
-> **Canal de suporte:** [Inserir canal/link/WhatsApp/e-mail]
+> **Canal de suporte:** [Inserir canal/link/WhatsApp/e-mail]<br>
 > **Horário de atendimento:** Segunda à Sexta de 08:00h às 18:00h
 >
 > Recomendamos que a equipe já comece a utilizar a plataforma no dia a dia. Essa prática inicial é importante para consolidar o treinamento e também identificar rapidamente qualquer dúvida ou necessidade de orientação.

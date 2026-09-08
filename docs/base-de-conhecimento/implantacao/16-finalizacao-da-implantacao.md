@@ -29,7 +29,7 @@ Ao final da implantação, depois de concluídas as etapas aplicáveis ao contra
 >
 > A partir deste momento, caso surjam dúvidas, dificuldades ou necessidade de apoio durante o uso da plataforma, nosso **time de Suporte estará à disposição para auxiliá-los**.
 >
-> **Canal de suporte:** (37) 99923-9402
+> **Canal de suporte:** (37) 99923-9402<br>
 > **Horário de atendimento:** Segunda a sexta, das 08h às 18h.
 >
 > Também recomendamos que a equipe mantenha a utilização da plataforma no dia a dia para consolidar os processos definidos durante a implantação e aproveitar ao máximo os recursos disponíveis.

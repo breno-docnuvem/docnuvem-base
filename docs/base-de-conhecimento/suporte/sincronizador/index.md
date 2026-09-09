@@ -26,6 +26,10 @@ Sempre que estiver instalando, atualizando ou dando suporte ao Sincronizador em 
 10. [14 - Operação do dia a dia](14-operacao-do-dia-a-dia.md)
 11. [15 - Solução de problemas](15-solucao-de-problemas.md)
 
+## Vídeos de apoio
+
+- Instalação (teste): https://youtu.be/Xc_ehR1XMdI
+
 ## Se travar
 
 <!-- TODO: confirmar com Breno qual é o canal/responsável de escalonamento para problemas com o Sincronizador. -->

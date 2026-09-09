@@ -34,6 +34,8 @@ Depois de ativado o módulo na empresa (ver [[03 - Antes de instalar (ativar o m
 
 O pacote já vem com o Java embutido — não é preciso instalar Java na máquina do cliente separadamente.
 
+Vídeo (teste): https://youtu.be/Xc_ehR1XMdI
+
 ## Se travar
 
 <!-- TODO: confirmar com Breno qual é o canal/responsável de escalonamento para problemas ao baixar ou montar os arquivos de instalação do Sincronizador. -->

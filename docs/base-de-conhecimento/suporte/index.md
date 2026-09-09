@@ -1,5 +1,9 @@
 # Suporte — visão geral
 
-> Página em construção.
+Processos operacionais do time de Suporte.
 
-<!-- TODO: aguardando ditados/rascunhos do Breno sobre os fluxos de suporte -->
+## Processos
+
+- [Agente Docnuvem (robô)](agente-docnuvem/index.md) — quando e como instalar o robô que envia arquivos automaticamente para o Docnuvem.
+
+<!-- TODO: aguardando ditados/rascunhos do Breno sobre os demais fluxos de suporte (atendimento de chamados, etc.). -->

@@ -102,4 +102,15 @@ nav:
               - 14. Envio da gravação do treinamento: base-de-conhecimento/implantacao/14-envio-da-gravacao-do-treinamento.md
               - 15. Solicitação do envio inteligente: base-de-conhecimento/implantacao/15-solicitacao-do-envio-inteligente.md
               - 16. Finalização da implantação: base-de-conhecimento/implantacao/16-finalizacao-da-implantacao.md
-      - Suporte: base-de-conhecimento/suporte/index.md
+      - Suporte:
+          - Visão geral: base-de-conhecimento/suporte/index.md
+          - Agente Docnuvem (robô):
+              - Visão geral do processo: base-de-conhecimento/suporte/agente-docnuvem/index.md
+              - 1. O que é o Agente Docnuvem: base-de-conhecimento/suporte/agente-docnuvem/01-o-que-e-o-agente-docnuvem.md
+              - 2. Quando instalar o Agente Docnuvem: base-de-conhecimento/suporte/agente-docnuvem/02-quando-instalar-o-agente-docnuvem.md
+              - Instalação:
+                  - 3. Baixar e alocar os arquivos: base-de-conhecimento/suporte/agente-docnuvem/03-baixar-e-alocar-os-arquivos.md
+                  - 4. Configurar o default.properties: base-de-conhecimento/suporte/agente-docnuvem/04-configurar-o-default-properties.md
+              - Depois de instalado:
+                  - 5. Rodar como programa convencional: base-de-conhecimento/suporte/agente-docnuvem/05-rodar-como-programa-convencional.md
+                  - 6. Instalar como serviço do Windows: base-de-conhecimento/suporte/agente-docnuvem/06-instalar-como-servico-do-windows.md

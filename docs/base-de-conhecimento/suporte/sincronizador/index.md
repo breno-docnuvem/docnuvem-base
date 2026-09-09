@@ -28,7 +28,11 @@ Sempre que estiver instalando, atualizando ou dando suporte ao Sincronizador em 
 
 ## Vídeos de apoio
 
-- Instalação (teste): https://youtu.be/Xc_ehR1XMdI
+**Instalação**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/Xc_ehR1XMdI" title="Instalação do Sincronizador Docnuvem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Se travar
 

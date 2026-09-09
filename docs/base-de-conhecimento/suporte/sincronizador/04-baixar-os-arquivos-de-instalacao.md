@@ -27,7 +27,11 @@ Depois de ativado o módulo na empresa (ver [03 - Antes de instalar (ativar o m�
 
 O pacote já vem com o Java embutido — não é preciso instalar Java na máquina do cliente separadamente.
 
-Vídeo (teste): https://youtu.be/Xc_ehR1XMdI
+**Vídeo**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/Xc_ehR1XMdI" title="Instalação do Sincronizador Docnuvem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Se travar
 

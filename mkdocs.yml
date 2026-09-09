@@ -114,3 +114,22 @@ nav:
               - Depois de instalado:
                   - 5. Rodar como programa convencional: base-de-conhecimento/suporte/agente-docnuvem/05-rodar-como-programa-convencional.md
                   - 6. Instalar como serviço do Windows: base-de-conhecimento/suporte/agente-docnuvem/06-instalar-como-servico-do-windows.md
+          - Sincronizador Docnuvem:
+              - Visão geral do processo: base-de-conhecimento/suporte/sincronizador/index.md
+              - 1. O que é o Sincronizador: base-de-conhecimento/suporte/sincronizador/01-o-que-e-o-sincronizador.md
+              - 2. Como se localizar no repositório: base-de-conhecimento/suporte/sincronizador/02-como-se-localizar-no-repositorio.md
+              - 3. Antes de instalar (ativar o módulo na empresa): base-de-conhecimento/suporte/sincronizador/03-antes-de-instalar-ativar-o-modulo-na-empresa.md
+              - Instalação na máquina do cliente:
+                  - 4. Baixar e descompactar o pacote: base-de-conhecimento/suporte/sincronizador/04-baixar-e-descompactar-o-pacote.md
+                  - 5. Configurar o application.yml: base-de-conhecimento/suporte/sincronizador/05-configurar-o-application-yml.md
+                  - 6. Instalar e iniciar o serviço: base-de-conhecimento/suporte/sincronizador/06-instalar-e-iniciar-o-servico.md
+                  - 7. Instalar o ícone de bandeja: base-de-conhecimento/suporte/sincronizador/07-instalar-o-icone-de-bandeja.md
+              - 8. Testar a instalação: base-de-conhecimento/suporte/sincronizador/08-testar-a-instalacao.md
+              - Controle de permissões por usuário (opcional):
+                  - 9. Vincular cada máquina a um usuário: base-de-conhecimento/suporte/sincronizador/09-vincular-cada-maquina-a-um-usuario.md
+                  - 10. Ativar a exigência de usuário na empresa: base-de-conhecimento/suporte/sincronizador/10-ativar-a-exigencia-de-usuario-na-empresa.md
+              - 11. Como funciona o controle de permissões ativo: base-de-conhecimento/suporte/sincronizador/11-como-funciona-o-controle-de-permissoes-ativo.md
+              - 12. Migrando máquinas aos poucos: base-de-conhecimento/suporte/sincronizador/12-migrando-maquinas-aos-poucos.md
+              - 13. Cores do ícone da bandeja: base-de-conhecimento/suporte/sincronizador/13-cores-do-icone-da-bandeja.md
+              - 14. Operação do dia a dia: base-de-conhecimento/suporte/sincronizador/14-operacao-do-dia-a-dia.md
+              - 15. Solução de problemas: base-de-conhecimento/suporte/sincronizador/15-solucao-de-problemas.md

@@ -27,4 +27,4 @@ Esse é o único pré-requisito para o comportamento padrão do Sincronizador (t
 ## Relacionados
 
 - [[Sincronizador Docnuvem]]
-- Anterior: [[02 - Como se localizar no repositório]] · Próxima etapa: [[04 - Baixar e descompactar o pacote]]
+- Anterior: [[02 - Como se localizar no repositório]] · Próxima etapa: [[04 - Baixar os arquivos de instalação]]

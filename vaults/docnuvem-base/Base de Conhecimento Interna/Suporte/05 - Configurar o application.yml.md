@@ -83,5 +83,5 @@ Não alterar o bloco `server:` — é a porta interna usada pelo ícone de bande
 ## Relacionados
 
 - [[Sincronizador Docnuvem]]
-- Anterior: [[04 - Baixar e descompactar o pacote]] · Próxima etapa: [[06 - Instalar e iniciar o serviço]]
+- Anterior: [[04 - Baixar os arquivos de instalação]] · Próxima etapa: [[06 - Instalar e iniciar o serviço]]
 - Veja também: 04 - Configurar o default.properties (nota do Agente Docnuvem) — mesmo processo de emissão de token

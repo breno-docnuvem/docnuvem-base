@@ -12,7 +12,7 @@ Sempre que estiver instalando, atualizando ou dando suporte ao Sincronizador em 
 2. [02 - Como se localizar no repositório](02-como-se-localizar-no-repositorio.md)
 3. [03 - Antes de instalar (ativar o módulo na empresa)](03-antes-de-instalar-ativar-o-modulo-na-empresa.md)
 4. Instalação na máquina do cliente
-    1. [04 - Baixar e descompactar o pacote](04-baixar-e-descompactar-o-pacote.md)
+    1. [04 - Baixar os arquivos de instalação](04-baixar-os-arquivos-de-instalacao.md)
     2. [05 - Configurar o application.yml](05-configurar-o-application-yml.md)
     3. [06 - Instalar e iniciar o serviço](06-instalar-e-iniciar-o-servico.md)
     4. [07 - Instalar o ícone de bandeja](07-instalar-o-icone-de-bandeja.md) — *opcional, recomendado*

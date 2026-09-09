@@ -2,7 +2,7 @@
 
 ## Quando se aplica
 
-Depois de descompactado o pacote na máquina do cliente (ver [04 - Baixar e descompactar o pacote](04-baixar-e-descompactar-o-pacote.md)) — o arquivo vem com dados de desenvolvimento, é obrigatório trocar pelos dados da empresa antes de instalar o serviço.
+Depois de baixados e organizados os arquivos de instalação na máquina do cliente (ver [04 - Baixar os arquivos de instalação](04-baixar-os-arquivos-de-instalacao.md)) — o arquivo vem com dados de desenvolvimento, é obrigatório trocar pelos dados da empresa antes de instalar o serviço.
 
 ## Onde configurar
 
@@ -77,5 +77,5 @@ Não alterar o bloco `server:` — é a porta interna usada pelo ícone de bande
 ## Relacionados
 
 - [Sincronizador Docnuvem](index.md)
-- Anterior: [04 - Baixar e descompactar o pacote](04-baixar-e-descompactar-o-pacote.md) · Próxima etapa: [06 - Instalar e iniciar o serviço](06-instalar-e-iniciar-o-servico.md)
+- Anterior: [04 - Baixar os arquivos de instalação](04-baixar-os-arquivos-de-instalacao.md) · Próxima etapa: [06 - Instalar e iniciar o serviço](06-instalar-e-iniciar-o-servico.md)
 - Veja também: [04 - Configurar o default.properties](../agente-docnuvem/04-configurar-o-default-properties.md) (nota do Agente Docnuvem) — mesmo processo de emissão de token

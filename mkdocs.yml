@@ -120,7 +120,7 @@ nav:
               - 2. Como se localizar no repositório: base-de-conhecimento/suporte/sincronizador/02-como-se-localizar-no-repositorio.md
               - 3. Antes de instalar (ativar o módulo na empresa): base-de-conhecimento/suporte/sincronizador/03-antes-de-instalar-ativar-o-modulo-na-empresa.md
               - Instalação na máquina do cliente:
-                  - 4. Baixar e descompactar o pacote: base-de-conhecimento/suporte/sincronizador/04-baixar-e-descompactar-o-pacote.md
+                  - 4. Baixar os arquivos de instalação: base-de-conhecimento/suporte/sincronizador/04-baixar-os-arquivos-de-instalacao.md
                   - 5. Configurar o application.yml: base-de-conhecimento/suporte/sincronizador/05-configurar-o-application-yml.md
                   - 6. Instalar e iniciar o serviço: base-de-conhecimento/suporte/sincronizador/06-instalar-e-iniciar-o-servico.md
                   - 7. Instalar o ícone de bandeja: base-de-conhecimento/suporte/sincronizador/07-instalar-o-icone-de-bandeja.md

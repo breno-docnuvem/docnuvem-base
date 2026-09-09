@@ -22,7 +22,7 @@ Sempre que for baixar o instalador, procurar uma versão anterior, ou consultar 
 
 ## Na prática
 
-Para uma instalação nova, é só baixar o pacote de dentro de "versão atual" (ver [04 - Baixar e descompactar o pacote](04-baixar-e-descompactar-o-pacote.md)). Para saber se um comportamento é esperado ou uma novidade recente, o `CHANGELOG.md` costuma responder mais rápido do que abrir o `.jar` ou testar na mão.
+Para uma instalação nova, é só montar os arquivos a partir de "estrutura padrão" e "versão atual" (ver [04 - Baixar os arquivos de instalação](04-baixar-os-arquivos-de-instalacao.md)). Para saber se um comportamento é esperado ou uma novidade recente, o `CHANGELOG.md` costuma responder mais rápido do que abrir o `.jar` ou testar na mão.
 
 ## Se travar
 

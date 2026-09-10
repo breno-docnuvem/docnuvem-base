@@ -1,5 +1,9 @@
 # 03 - Outras configurações
 
+<!-- prevnext:top -->
+← [Passo anterior: 2. Configurações da empresa](02-configuracoes-da-empresa.md) · [Próximo passo: 4. Configurações avançado →](04-configuracoes-avancado.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Logo após configurar os dados da empresa (ver [02 - Configurações da empresa](02-configuracoes-da-empresa.md)).
@@ -21,3 +25,7 @@ Reporte no grupo de Implantações.
 
 - [Processo de Implantação](index.md)
 - Anterior: [02 - Configurações da empresa](02-configuracoes-da-empresa.md) · Próxima etapa: [04 - Configurações avançado](04-configuracoes-avancado.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 2. Configurações da empresa](02-configuracoes-da-empresa.md) · [Próximo passo: 4. Configurações avançado →](04-configuracoes-avancado.md)
+<!-- /prevnext:bottom -->

@@ -98,15 +98,22 @@ Todas as páginas fora de `docs/index.md` que ainda não têm conteúdo real est
 - Não inventar funcionalidades, campos ou comportamentos do sistema que não estejam nas fontes. Sem informação suficiente → deixar `<!-- TODO: confirmar com Breno -->` em vez de supor.
 - Não presumir estrutura de permissões, cargos ou nomes de pessoas da equipe que o Breno não tenha informado explicitamente.
 
-## Plano de contingência — ALTA PRIORIDADE, ainda incompleto
+## Navegação de passo anterior / próximo passo (páginas de etapa)
 
-`docs/base-de-conhecimento/contingencia.md` existe como placeholder (exigência do projeto: deve existir desde o primeiro commit publicado), mas falta conteúdo real. Precisa, assim que o Breno tiver tempo:
+Toda seção da Base de Conhecimento Interna organizada em passos numerados sequenciais (hoje: `base-de-conhecimento/implantacao/`, arquivos `01-...md` a `16-...md`) segue esta convenção de navegação:
 
-1. O que a equipe faz diante de uma situação de implantação/suporte não coberta pela documentação.
-2. Quem é o backup/responsável por decisões durante o período de férias.
-3. Como e quando (se for o caso) acionar o Breno nas férias.
+- Logo abaixo do H1 e novamente no fim da página, uma linha de navegação:
+  `← [Passo anterior: N. Título](arquivo-anterior.md) · [Próximo passo: N. Título →](proximo-arquivo.md)`
+- A ordem é a **ordem numérica dos passos**, não a árvore visual do `nav:` do `mkdocs.yml` (que pode agrupar passos sob subtítulos só por organização visual — ver Implantação, onde os passos 2-6 e 7-9 ficam agrupados, mas a navegação de passo a passo ignora esses grupos e segue 1→2→3→...→16).
+- No primeiro passo, o lado esquerdo vira `[↑ Visão geral do processo](index.md)` (sem "passo anterior"). No último passo, o lado direito vira `[Visão geral do processo ↑](index.md)` (sem "próximo passo").
+- Cada bloco fica entre marcadores HTML (`<!-- prevnext:top -->`/`<!-- /prevnext:top -->` e `<!-- prevnext:bottom -->`/`<!-- /prevnext:bottom -->`) para que o script de geração seja idempotente (rodar de novo não duplica).
+- Essa navegação é **além** da seção `## Relacionados` que já existe em cada página (que continua em prosa, com mais contexto) — não substitui.
 
-Manter esta página sempre visível/linkada com destaque na home (`docs/index.md`) — já está.
+Gerar/atualizar com `python3 scripts/gen-implantacao-prevnext.py` (a partir da raiz do repo) — não editar essas linhas manualmente em cada página. Ao criar uma nova seção com o mesmo padrão de passos numerados (ex.: se `suporte/` ganhar uma sequência assim no futuro), copiar o script para uma versão própria (ex. `gen-suporte-prevnext.py`) em vez de generalizar prematuramente — a lista de passos de cada seção é curta e explícita no topo do script.
+
+## Plano de contingência — concluído
+
+`docs/base-de-conhecimento/contingencia.md` tem conteúdo real desde 2026-09-10: quem acionar por situação (Victor, Igor, Jéssica, Camila, João Antônio), backup quando o Victor não estiver disponível (Vinícius ou Flávia), e contatos. Fonte: `vaults/docnuvem-base/Plano de contigência.md`. Segue linkada com destaque na home (`docs/index.md`).
 
 ## Fluxo de trabalho (ordem de execução)
 

@@ -1,5 +1,9 @@
 # 12 - Cadastro de empresas e diretórios
 
+<!-- prevnext:top -->
+← [Passo anterior: 11. Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md) · [Próximo passo: 13. Agendamento do treinamento →](13-agendamento-do-treinamento.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Quando é preciso estruturar mais de uma empresa (matriz, filiais ou outras empresas do grupo) ou organizar diretórios/pastas antes do treinamento. Pode ser enviado em paralelo com [11 - Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md).
@@ -89,3 +93,7 @@ Reporte no grupo de Implantações.
 - [Processo de Implantação](index.md)
 - Depois de cadastrados os modelos de documentos (se aplicável, [11 - Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md)) e as empresas/diretórios, seguir para [13 - Agendamento do treinamento](13-agendamento-do-treinamento.md).
 - Veja também no Manual do Sistema: [Meus Cadastros — Cadastro de Empresas, ARs e Agências](../../manual/07-meus-cadastros.md#cadastro-de-empresas-ars-e-agencias), [Meus Documentos — Diretórios](../../manual/04-meus-documentos.md#diretorios)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 11. Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md) · [Próximo passo: 13. Agendamento do treinamento →](13-agendamento-do-treinamento.md)
+<!-- /prevnext:bottom -->

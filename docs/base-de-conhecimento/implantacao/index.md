@@ -1,5 +1,14 @@
 # Processo de Implantação
 
+<!-- Cada página de etapa (01-...md a 16-...md) tem uma linha de navegação
+     "Passo anterior / Próximo passo" logo abaixo do H1 e no fim da página,
+     entre marcadores HTML dedicados (ver o topo de qualquer página de etapa).
+     A ordem segue a numeração do passo (1 a 16), não a árvore visual do
+     nav: do mkdocs.yml. Gerar/atualizar com:
+     python3 scripts/gen-implantacao-prevnext.py
+     Convenção completa documentada no CLAUDE.md, seção "Navegação de passo
+     anterior / próximo passo (páginas de etapa)". -->
+
 Passo a passo completo da implantação de um novo cliente Docnuvem, do recebimento dos dados até a entrega ao cliente.
 
 ## Quando se aplica

@@ -1,5 +1,9 @@
 # 05 - Funcionalidades Enterprise
 
+<!-- prevnext:top -->
+← [Passo anterior: 4. Configurações avançado](04-configuracoes-avancado.md) · [Próximo passo: 6. Cadastro do primeiro usuário →](06-cadastro-do-primeiro-usuario.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Apenas para clientes do **plano Enterprise**, logo após a etapa [04 - Configurações avançado](04-configuracoes-avancado.md).
@@ -23,3 +27,7 @@ Qualquer dúvida sobre quais módulos ativar, perguntar ao Igor.
 - [Processo de Implantação](index.md)
 - Anterior: [04 - Configurações avançado](04-configuracoes-avancado.md) · Próxima etapa: [06 - Cadastro do primeiro usuário](06-cadastro-do-primeiro-usuario.md)
 - Veja também no Manual do Sistema: [Tipos Cadastrados](../../manual/09-tipos-cadastrados.md), [Meus Modelos](../../manual/08-meus-modelos.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 4. Configurações avançado](04-configuracoes-avancado.md) · [Próximo passo: 6. Cadastro do primeiro usuário →](06-cadastro-do-primeiro-usuario.md)
+<!-- /prevnext:bottom -->

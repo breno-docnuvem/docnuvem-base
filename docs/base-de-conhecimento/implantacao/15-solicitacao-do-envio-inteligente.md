@@ -1,5 +1,9 @@
 # 15 - Solicitação do envio inteligente
 
+<!-- prevnext:top -->
+← [Passo anterior: 14. Envio da gravação do treinamento](14-envio-da-gravacao-do-treinamento.md) · [Próximo passo: 16. Finalização da implantação →](16-finalizacao-da-implantacao.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Apenas quando o **Envio Inteligente** foi contratado. O funcionamento do recurso deve ser apresentado e exemplificado durante o treinamento (ver [13 - Agendamento do treinamento](13-agendamento-do-treinamento.md)); a solicitação dos documentos para configurá-lo é feita depois.
@@ -36,3 +40,7 @@ Reporte no grupo de Implantações.
 - [Processo de Implantação](index.md)
 - Anterior: [14 - Envio da gravação do treinamento](14-envio-da-gravacao-do-treinamento.md) · Próxima etapa: [16 - Finalização da implantação](16-finalizacao-da-implantacao.md)
 - Veja também no Manual do Sistema: [Arquivos — Como configurar regras de Envio Inteligente](../../manual/10-arquivos.md#como-configurar-regras-de-envio-inteligente)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 14. Envio da gravação do treinamento](14-envio-da-gravacao-do-treinamento.md) · [Próximo passo: 16. Finalização da implantação →](16-finalizacao-da-implantacao.md)
+<!-- /prevnext:bottom -->

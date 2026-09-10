@@ -1,5 +1,9 @@
 # 07 - Cadastro do contato no Digisac
 
+<!-- prevnext:top -->
+← [Passo anterior: 6. Cadastro do primeiro usuário](06-cadastro-do-primeiro-usuario.md) · [Próximo passo: 8. Script de primeiro contato →](08-script-de-primeiro-contato.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Antes do primeiro contato com o cliente, depois de concluída a configuração inicial da instância (ver [06 - Cadastro do primeiro usuário](06-cadastro-do-primeiro-usuario.md)).
@@ -26,3 +30,7 @@ Reporte no grupo de Implantações.
 
 - [Processo de Implantação](index.md)
 - Anterior: [06 - Cadastro do primeiro usuário](06-cadastro-do-primeiro-usuario.md) · Próxima etapa: [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 6. Cadastro do primeiro usuário](06-cadastro-do-primeiro-usuario.md) · [Próximo passo: 8. Script de primeiro contato →](08-script-de-primeiro-contato.md)
+<!-- /prevnext:bottom -->

@@ -1,5 +1,9 @@
 # 09 - Identidade visual
 
+<!-- prevnext:top -->
+← [Passo anterior: 8. Script de primeiro contato](08-script-de-primeiro-contato.md) · [Próximo passo: 10. Envio da playlist (Standard) →](10-envio-da-playlist-standard.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Apenas quando a identidade visual foi contratada. Enviar logo após o script de primeiro contato (ver [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)).
@@ -68,3 +72,7 @@ Reporte no grupo de Implantações.
 
 - [Processo de Implantação](index.md)
 - Anterior: [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 8. Script de primeiro contato](08-script-de-primeiro-contato.md) · [Próximo passo: 10. Envio da playlist (Standard) →](10-envio-da-playlist-standard.md)
+<!-- /prevnext:bottom -->

@@ -1,5 +1,9 @@
 # 08 - Script de primeiro contato
 
+<!-- prevnext:top -->
+← [Passo anterior: 7. Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md) · [Próximo passo: 9. Identidade visual →](09-identidade-visual.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Logo após cadastrar o contato no Digisac (ver [07 - Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md)). Vale para os planos **Standard** e **Enterprise**.
@@ -83,3 +87,7 @@ Reporte no grupo de Implantações.
 - Anterior: [07 - Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md)
 - Se a identidade visual foi contratada, envie em seguida [09 - Identidade visual](09-identidade-visual.md)
 - Próxima etapa (plano Standard): [10 - Envio da playlist (Standard)](10-envio-da-playlist-standard.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 7. Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md) · [Próximo passo: 9. Identidade visual →](09-identidade-visual.md)
+<!-- /prevnext:bottom -->

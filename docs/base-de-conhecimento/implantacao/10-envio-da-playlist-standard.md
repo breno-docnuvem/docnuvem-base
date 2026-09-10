@@ -1,5 +1,9 @@
 # 10 - Envio da playlist (Standard)
 
+<!-- prevnext:top -->
+← [Passo anterior: 9. Identidade visual](09-identidade-visual.md) · [Próximo passo: 11. Solicitação de modelos de documentos →](11-solicitacao-modelos-documentos.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Apenas para clientes do **plano Standard**, logo após o script de primeiro contato (ver [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)) e, se aplicável, a identidade visual (ver [09 - Identidade visual](09-identidade-visual.md)).
@@ -30,3 +34,7 @@ Se o cliente não responder ou não fizer o primeiro acesso, continuar as cobran
 
 - [Processo de Implantação](index.md)
 - Anterior: [08 - Script de primeiro contato](08-script-de-primeiro-contato.md) / [09 - Identidade visual](09-identidade-visual.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 9. Identidade visual](09-identidade-visual.md) · [Próximo passo: 11. Solicitação de modelos de documentos →](11-solicitacao-modelos-documentos.md)
+<!-- /prevnext:bottom -->

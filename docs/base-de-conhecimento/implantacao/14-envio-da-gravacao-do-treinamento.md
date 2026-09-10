@@ -1,5 +1,9 @@
 # 14 - Envio da gravação do treinamento
 
+<!-- prevnext:top -->
+← [Passo anterior: 13. Agendamento do treinamento](13-agendamento-do-treinamento.md) · [Próximo passo: 15. Solicitação do envio inteligente →](15-solicitacao-do-envio-inteligente.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Logo após a realização do treinamento agendado em [13 - Agendamento do treinamento](13-agendamento-do-treinamento.md).
@@ -31,3 +35,7 @@ Reporte no grupo de Implantações.
 
 - [Processo de Implantação](index.md)
 - Anterior: [13 - Agendamento do treinamento](13-agendamento-do-treinamento.md) · Próxima etapa: [15 - Solicitação do envio inteligente](15-solicitacao-do-envio-inteligente.md) — *quando aplicável*
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 13. Agendamento do treinamento](13-agendamento-do-treinamento.md) · [Próximo passo: 15. Solicitação do envio inteligente →](15-solicitacao-do-envio-inteligente.md)
+<!-- /prevnext:bottom -->

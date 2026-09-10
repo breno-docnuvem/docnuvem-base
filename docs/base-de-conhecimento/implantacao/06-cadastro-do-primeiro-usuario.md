@@ -1,5 +1,9 @@
 # 06 - Cadastro do primeiro usuário
 
+<!-- prevnext:top -->
+← [Passo anterior: 5. Funcionalidades Enterprise](05-funcionalidades-enterprise.md) · [Próximo passo: 7. Cadastro do contato no Digisac →](07-cadastro-do-contato-no-digisac.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Última etapa da configuração inicial da instância, depois de concluídas as etapas anteriores (empresa, outras configurações, avançado e, se Enterprise, funcionalidades Enterprise).
@@ -19,3 +23,7 @@ Reporte no grupo de Implantações.
 - [Processo de Implantação](index.md)
 - Anterior: [05 - Funcionalidades Enterprise](05-funcionalidades-enterprise.md) · Próxima etapa: [07 - Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md)
 - Veja também no Manual do Sistema: [Meus Cadastros (Cadastro de Usuários)](../../manual/07-meus-cadastros.md#usuarios)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 5. Funcionalidades Enterprise](05-funcionalidades-enterprise.md) · [Próximo passo: 7. Cadastro do contato no Digisac →](07-cadastro-do-contato-no-digisac.md)
+<!-- /prevnext:bottom -->

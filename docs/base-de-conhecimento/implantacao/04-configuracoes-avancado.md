@@ -1,5 +1,9 @@
 # 04 - Configurações avançado
 
+<!-- prevnext:top -->
+← [Passo anterior: 3. Outras configurações](03-outras-configuracoes.md) · [Próximo passo: 5. Funcionalidades Enterprise →](05-funcionalidades-enterprise.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Logo após ativar o SyncFusion (ver [03 - Outras configurações](03-outras-configuracoes.md)).
@@ -23,3 +27,7 @@ Reporte no grupo de Implantações.
 
 - [Processo de Implantação](index.md)
 - Anterior: [03 - Outras configurações](03-outras-configuracoes.md) · Próxima etapa: [05 - Funcionalidades Enterprise](05-funcionalidades-enterprise.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 3. Outras configurações](03-outras-configuracoes.md) · [Próximo passo: 5. Funcionalidades Enterprise →](05-funcionalidades-enterprise.md)
+<!-- /prevnext:bottom -->

@@ -1,5 +1,9 @@
 # 02 - Configurações da empresa
 
+<!-- prevnext:top -->
+← [Passo anterior: 1. Início do processo](01-inicio-do-processo.md) · [Próximo passo: 3. Outras configurações →](03-outras-configuracoes.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Logo após acessar a nova instância pela primeira vez, como parte da configuração inicial (ver [Processo de Implantação](index.md)).
@@ -27,3 +31,7 @@ Em caso de dúvida sobre algum desses valores para o cliente em questão, confir
 
 - [Processo de Implantação](index.md)
 - Anterior: [01 - Início do processo](01-inicio-do-processo.md) · Próxima etapa: [03 - Outras configurações](03-outras-configuracoes.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 1. Início do processo](01-inicio-do-processo.md) · [Próximo passo: 3. Outras configurações →](03-outras-configuracoes.md)
+<!-- /prevnext:bottom -->

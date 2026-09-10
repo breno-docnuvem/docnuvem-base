@@ -1,5 +1,9 @@
 # 13 - Agendamento do treinamento
 
+<!-- prevnext:top -->
+← [Passo anterior: 12. Cadastro de empresas e diretórios](12-cadastro-de-empresas-e-diretorios.md) · [Próximo passo: 14. Envio da gravação do treinamento →](14-envio-da-gravacao-do-treinamento.md)
+<!-- /prevnext:top -->
+
 ## Quando se aplica
 
 Depois de concluídos o cadastro de modelos de documentos (se aplicável, ver [11 - Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md)) e o cadastro de empresas/diretórios (se aplicável, ver [12 - Cadastro de empresas e diretórios](12-cadastro-de-empresas-e-diretorios.md)).
@@ -59,3 +63,7 @@ Reporte no grupo de Implantações.
 
 - [Processo de Implantação](index.md)
 - Anterior: [12 - Cadastro de empresas e diretórios](12-cadastro-de-empresas-e-diretorios.md) · Próxima etapa: [14 - Envio da gravação do treinamento](14-envio-da-gravacao-do-treinamento.md)
+
+<!-- prevnext:bottom -->
+← [Passo anterior: 12. Cadastro de empresas e diretórios](12-cadastro-de-empresas-e-diretorios.md) · [Próximo passo: 14. Envio da gravação do treinamento →](14-envio-da-gravacao-do-treinamento.md)
+<!-- /prevnext:bottom -->

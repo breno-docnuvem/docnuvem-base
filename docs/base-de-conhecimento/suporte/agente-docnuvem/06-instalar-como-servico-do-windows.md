@@ -44,6 +44,12 @@ Depois de configurado o `default.properties` (ver [04 - Configurar o default.pro
 
 Se todos os passos forem seguidos corretamente, o serviço deve ficar em execução.
 
+**Vídeo**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/0Ch2igptWNA" title="Instalar o Agente Docnuvem como serviço do Windows" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Se travar
 
 <!-- TODO: confirmar com Breno qual é o canal/responsável de escalonamento para problemas ao instalar o Agente como serviço do Windows. -->

@@ -17,4 +17,5 @@ Problemas de acesso: acionar o [Plano de Contingência](../base-de-conhecimento/
 ## Relacionados
 
 - [Acesso ao Docnuvem Academy](academy.md)
+- [Acesso ao YouTube Docnuvem](youtube.md)
 - [Plano de Contingência](../base-de-conhecimento/contingencia.md)

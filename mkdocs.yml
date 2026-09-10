@@ -41,7 +41,6 @@ extra_css:
 
 markdown_extensions:
   - admonition
-  - attr_list
   - pymdownx.details
   - pymdownx.superfences
   - tables
@@ -134,7 +133,9 @@ nav:
               - 13. Cores do ícone da bandeja: base-de-conhecimento/suporte/sincronizador/13-cores-do-icone-da-bandeja.md
               - 14. Operação do dia a dia: base-de-conhecimento/suporte/sincronizador/14-operacao-do-dia-a-dia.md
               - 15. Solução de problemas: base-de-conhecimento/suporte/sincronizador/15-solucao-de-problemas.md
+          - API Docnuvem (Importação): base-de-conhecimento/suporte/api-importacao.md
   - Ferramentas e Acessos:
       - Visão geral: ferramentas-acessos/index.md
       - Acesso ao Docnuvem Academy: ferramentas-acessos/academy.md
       - Acesso ao e-mail de treinamento: ferramentas-acessos/email-treinamento.md
+      - Acesso ao YouTube Docnuvem: ferramentas-acessos/youtube.md

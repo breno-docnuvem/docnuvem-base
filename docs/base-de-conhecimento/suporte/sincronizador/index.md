@@ -34,6 +34,24 @@ Sempre que estiver instalando, atualizando ou dando suporte ao Sincronizador em 
   <iframe src="https://www.youtube.com/embed/Xc_ehR1XMdI" title="Instalação do Sincronizador Docnuvem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+**Atualização**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/Jv4uDneXLWg" title="Atualização do Sincronizador Docnuvem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+**Desinstalação**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/KjaWRv8eXwQ" title="Desinstalação do Sincronizador Docnuvem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+**Solução de problemas**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/kzytvKwrTR4" title="Solução de problemas do Sincronizador Docnuvem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Se travar
 
 <!-- TODO: confirmar com Breno qual é o canal/responsável de escalonamento para problemas com o Sincronizador. -->

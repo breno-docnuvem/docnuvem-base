@@ -17,6 +17,14 @@ Sempre que estiver avaliando se um cliente precisa do Agente instalado, ou execu
     1. [05 - Rodar como programa convencional](05-rodar-como-programa-convencional.md)
     2. [06 - Instalar como serviço do Windows](06-instalar-como-servico-do-windows.md) — *usar quando não pode depender de um usuário Windows logado (ex.: RAMARIM)*
 
+## Vídeos de apoio
+
+**Instalar como serviço do Windows**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/0Ch2igptWNA" title="Instalar o Agente Docnuvem como serviço do Windows" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Se travar
 
 <!-- TODO: confirmar com Breno qual é o canal/responsável de escalonamento para problemas com o Agente Docnuvem (grupo de Suporte? Igor? outro?). -->

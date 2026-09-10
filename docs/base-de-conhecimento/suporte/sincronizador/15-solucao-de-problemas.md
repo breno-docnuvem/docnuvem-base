@@ -28,6 +28,12 @@ Indica que a API não está com o build atualizado (limite de 1 GB). Escalar par
 
 Numa máquina com o controle de permissões ativo, ao tentar criar uma pasta em um diretório sem permissão, ocorre falha e o ícone fica vermelho. Excluir a pasta criada indevidamente **não corrige** o problema — foi preciso desinstalar e reinstalar o programa. Acontece principalmente quando a raiz sincronizada é "Meus documentos", já que usuários não administradores normalmente não têm permissão para criar pastas na raiz do sistema.
 
+**Vídeo**
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/kzytvKwrTR4" title="Solução de problemas do Sincronizador Docnuvem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Se travar
 
 <!-- TODO: confirmar com Breno qual é o canal/responsável de escalonamento para problemas não cobertos aqui. -->

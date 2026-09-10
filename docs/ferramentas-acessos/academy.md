@@ -16,4 +16,6 @@ Problemas de acesso ou de uso da plataforma: acionar **João Antônio (Avante)**
 
 ## Relacionados
 
+- [Acesso ao e-mail de treinamento](email-treinamento.md)
+- [Acesso ao YouTube Docnuvem](youtube.md)
 - [Plano de Contingência](../base-de-conhecimento/contingencia.md)

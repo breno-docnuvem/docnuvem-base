@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 13. Agendamento do treinamento](13-agendamento-do-treinamento.md) · [Próximo passo: 15. Solicitação do envio inteligente →](15-solicitacao-do-envio-inteligente.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -38,4 +39,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 13. Agendamento do treinamento](13-agendamento-do-treinamento.md) · [Próximo passo: 15. Solicitação do envio inteligente →](15-solicitacao-do-envio-inteligente.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

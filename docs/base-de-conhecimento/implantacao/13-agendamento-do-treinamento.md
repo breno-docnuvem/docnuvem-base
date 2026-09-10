@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 12. Cadastro de empresas e diretórios](12-cadastro-de-empresas-e-diretorios.md) · [Próximo passo: 14. Envio da gravação do treinamento →](14-envio-da-gravacao-do-treinamento.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -66,4 +67,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 12. Cadastro de empresas e diretórios](12-cadastro-de-empresas-e-diretorios.md) · [Próximo passo: 14. Envio da gravação do treinamento →](14-envio-da-gravacao-do-treinamento.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

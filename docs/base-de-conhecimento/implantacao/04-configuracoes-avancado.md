@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 3. Outras configurações](03-outras-configuracoes.md) · [Próximo passo: 5. Funcionalidades Enterprise →](05-funcionalidades-enterprise.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -30,4 +31,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 3. Outras configurações](03-outras-configuracoes.md) · [Próximo passo: 5. Funcionalidades Enterprise →](05-funcionalidades-enterprise.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

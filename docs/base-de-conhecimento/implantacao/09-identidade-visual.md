@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 8. Script de primeiro contato](08-script-de-primeiro-contato.md) · [Próximo passo: 10. Envio da playlist (Standard) →](10-envio-da-playlist-standard.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -75,4 +76,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 8. Script de primeiro contato](08-script-de-primeiro-contato.md) · [Próximo passo: 10. Envio da playlist (Standard) →](10-envio-da-playlist-standard.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

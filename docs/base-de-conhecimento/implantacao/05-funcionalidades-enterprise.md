@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 4. Configurações avançado](04-configuracoes-avancado.md) · [Próximo passo: 6. Cadastro do primeiro usuário →](06-cadastro-do-primeiro-usuario.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -30,4 +31,5 @@ Qualquer dúvida sobre quais módulos ativar, perguntar ao Igor.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 4. Configurações avançado](04-configuracoes-avancado.md) · [Próximo passo: 6. Cadastro do primeiro usuário →](06-cadastro-do-primeiro-usuario.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

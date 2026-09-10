@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 10. Envio da playlist (Standard)](10-envio-da-playlist-standard.md) · [Próximo passo: 12. Cadastro de empresas e diretórios →](12-cadastro-de-empresas-e-diretorios.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -72,4 +73,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 10. Envio da playlist (Standard)](10-envio-da-playlist-standard.md) · [Próximo passo: 12. Cadastro de empresas e diretórios →](12-cadastro-de-empresas-e-diretorios.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

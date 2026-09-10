@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 1. Início do processo](01-inicio-do-processo.md) · [Próximo passo: 3. Outras configurações →](03-outras-configuracoes.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -34,4 +35,5 @@ Em caso de dúvida sobre algum desses valores para o cliente em questão, confir
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 1. Início do processo](01-inicio-do-processo.md) · [Próximo passo: 3. Outras configurações →](03-outras-configuracoes.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

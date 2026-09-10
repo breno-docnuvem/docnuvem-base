@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 [↑ Visão geral do processo](index.md) · [Próximo passo: 2. Configurações da empresa →](02-configuracoes-da-empresa.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -35,4 +36,5 @@ Se o acesso ao link da instância apresentar algum erro, reportar imediatamente 
 
 <!-- prevnext:bottom -->
 [↑ Visão geral do processo](index.md) · [Próximo passo: 2. Configurações da empresa →](02-configuracoes-da-empresa.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

@@ -59,7 +59,10 @@ def nav_line(i):
 
 
 def block(marker_start, marker_end, line):
-    return f"{marker_start}\n{line}\n{marker_end}"
+    # A linha "{: .prevnext-nav }" (extensão attr_list) aplica a classe CSS
+    # ao parágrafo acima — precisa ficar colada nele, sem linha em branco
+    # entre os dois. Ver .prevnext-nav em docs/stylesheets/extra.css.
+    return f"{marker_start}\n{line}\n{{: .prevnext-nav }}\n{marker_end}"
 
 
 def strip_existing(text, start, end):

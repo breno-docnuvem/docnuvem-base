@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 6. Cadastro do primeiro usuário](06-cadastro-do-primeiro-usuario.md) · [Próximo passo: 8. Script de primeiro contato →](08-script-de-primeiro-contato.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -33,4 +34,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 6. Cadastro do primeiro usuário](06-cadastro-do-primeiro-usuario.md) · [Próximo passo: 8. Script de primeiro contato →](08-script-de-primeiro-contato.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

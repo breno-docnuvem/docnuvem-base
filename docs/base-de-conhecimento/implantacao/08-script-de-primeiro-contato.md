@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 7. Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md) · [Próximo passo: 9. Identidade visual →](09-identidade-visual.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -90,4 +91,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 7. Cadastro do contato no Digisac](07-cadastro-do-contato-no-digisac.md) · [Próximo passo: 9. Identidade visual →](09-identidade-visual.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

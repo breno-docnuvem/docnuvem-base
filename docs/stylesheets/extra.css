@@ -56,3 +56,21 @@
   height: 100%;
   border: 0;
 }
+
+/* Caixa de navegação "passo anterior / próximo passo" (páginas de etapa
+   numeradas, ex.: base-de-conhecimento/implantacao/). Aplicada via
+   attr_list: linha {: .prevnext-nav } logo abaixo do parágrafo de nav —
+   ver scripts/gen-implantacao-prevnext.py. Usa as mesmas variáveis de
+   cor do accent, então se adapta sozinha ao modo claro/escuro. */
+.prevnext-nav {
+  margin: 1.25em 0;
+  padding: 0.7em 1em;
+  border-radius: 0.2rem;
+  background-color: var(--md-accent-fg-color--transparent);
+  border-left: 0.25rem solid var(--md-accent-fg-color);
+  font-size: 0.75rem;
+}
+
+.prevnext-nav a {
+  font-weight: 700;
+}

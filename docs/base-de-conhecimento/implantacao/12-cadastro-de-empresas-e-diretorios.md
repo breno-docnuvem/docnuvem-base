@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 11. Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md) · [Próximo passo: 13. Agendamento do treinamento →](13-agendamento-do-treinamento.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -96,4 +97,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 11. Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md) · [Próximo passo: 13. Agendamento do treinamento →](13-agendamento-do-treinamento.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

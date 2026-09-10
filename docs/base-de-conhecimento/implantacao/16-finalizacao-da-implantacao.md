@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 15. Solicitação do envio inteligente](15-solicitacao-do-envio-inteligente.md) · [Visão geral do processo ↑](index.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -59,4 +60,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 15. Solicitação do envio inteligente](15-solicitacao-do-envio-inteligente.md) · [Visão geral do processo ↑](index.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

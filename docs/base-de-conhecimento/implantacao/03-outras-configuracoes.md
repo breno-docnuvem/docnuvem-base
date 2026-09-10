@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 2. Configurações da empresa](02-configuracoes-da-empresa.md) · [Próximo passo: 4. Configurações avançado →](04-configuracoes-avancado.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -28,4 +29,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 2. Configurações da empresa](02-configuracoes-da-empresa.md) · [Próximo passo: 4. Configurações avançado →](04-configuracoes-avancado.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

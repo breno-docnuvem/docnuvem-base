@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 14. Envio da gravação do treinamento](14-envio-da-gravacao-do-treinamento.md) · [Próximo passo: 16. Finalização da implantação →](16-finalizacao-da-implantacao.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -43,4 +44,5 @@ Reporte no grupo de Implantações.
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 14. Envio da gravação do treinamento](14-envio-da-gravacao-do-treinamento.md) · [Próximo passo: 16. Finalização da implantação →](16-finalizacao-da-implantacao.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

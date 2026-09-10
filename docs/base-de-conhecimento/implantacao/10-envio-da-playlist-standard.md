@@ -2,6 +2,7 @@
 
 <!-- prevnext:top -->
 ← [Passo anterior: 9. Identidade visual](09-identidade-visual.md) · [Próximo passo: 11. Solicitação de modelos de documentos →](11-solicitacao-modelos-documentos.md)
+{: .prevnext-nav }
 <!-- /prevnext:top -->
 
 ## Quando se aplica
@@ -37,4 +38,5 @@ Se o cliente não responder ou não fizer o primeiro acesso, continuar as cobran
 
 <!-- prevnext:bottom -->
 ← [Passo anterior: 9. Identidade visual](09-identidade-visual.md) · [Próximo passo: 11. Solicitação de modelos de documentos →](11-solicitacao-modelos-documentos.md)
+{: .prevnext-nav }
 <!-- /prevnext:bottom -->

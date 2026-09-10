@@ -31,6 +31,19 @@ Para finalizar o programa, clicar com o botão direito no ícone da bandeja e es
 
 ![Opção Encerrar no menu do ícone da bandeja.](images/05-rodar-como-programa-convencional/05-encerrar-pelo-icone.png)
 
+## Iniciar junto com o Windows
+
+Para o Agente iniciar sozinho sempre que o Windows for ligado, sem precisar executar o `.vbs` manualmente:
+
+1. Criar um atalho do arquivo `agente-docnuvem\bin\iniciar_agente_docnuvem.vbs` (botão direito sobre o arquivo → **Criar atalho**).
+2. Abrir a pasta de inicialização do Windows: `Win + R`, digitar `shell:startup` e pressionar Enter.
+3. Copiar o atalho criado para dentro dessa pasta.
+
+A partir daí, a cada login do usuário Windows responsável, o Agente inicia sozinho em segundo plano — o mesmo comportamento de quando se executa o `.vbs` manualmente (ícone na bandeja, sem log na tela).
+
+!!! note
+    Isso só vale para o modo **programa convencional** (depende do usuário estar logado). Para não depender de usuário logado, ver [06 - Instalar como serviço do Windows](06-instalar-como-servico-do-windows.md).
+
 ## Se travar
 
 <!-- TODO: confirmar com Breno qual é o canal/responsável de escalonamento para problemas ao rodar o Agente como programa convencional. -->

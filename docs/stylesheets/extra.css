@@ -75,18 +75,22 @@
   font-weight: 700;
 }
 
-/* Menu lateral (árvore de navegação do Manual/Central de Ajuda/Base de
-   Conhecimento). O tema padrão deixa todo item com o mesmo peso visual —
-   difícil notar em que página se está ou o que é clicável. Aumentamos a
+/* Menus laterais — árvore de navegação à esquerda (.md-nav--primary) e
+   índice "Nesta página" à direita (.md-nav--secondary). O tema padrão
+   deixa todo item com o mesmo peso visual — difícil notar em que página
+   (ou em que seção da página) se está, ou o que é clicável. Aumentamos a
    fonte um pouco, damos um respiro (padding + radius) para caber um
    destaque, e marcamos hover e item ativo com a cor accent, igual à
    caixa de navegação passo anterior/próximo. */
 .md-nav--primary .md-nav__item,
-.md-nav--primary .md-nav__title {
+.md-nav--primary .md-nav__title,
+.md-nav--secondary .md-nav__item,
+.md-nav--secondary .md-nav__title {
   font-size: .85rem;
 }
 
-.md-nav--primary .md-nav__link {
+.md-nav--primary .md-nav__link,
+.md-nav--secondary .md-nav__link {
   border-radius: .2rem;
   padding: .2rem .4rem;
   margin: .1rem 0;
@@ -94,13 +98,17 @@
 }
 
 .md-nav--primary .md-nav__item .md-nav__link:hover,
-.md-nav--primary .md-nav__item .md-nav__link:focus {
+.md-nav--primary .md-nav__item .md-nav__link:focus,
+.md-nav--secondary .md-nav__item .md-nav__link:hover,
+.md-nav--secondary .md-nav__item .md-nav__link:focus {
   background-color: var(--md-accent-fg-color--transparent);
   color: var(--md-accent-fg-color);
 }
 
 .md-nav--primary .md-nav__item .md-nav__link--active,
-.md-nav--primary .md-nav__item--active > .md-nav__link {
+.md-nav--primary .md-nav__item--active > .md-nav__link,
+.md-nav--secondary .md-nav__item .md-nav__link--active,
+.md-nav--secondary .md-nav__item--active > .md-nav__link {
   font-weight: 700;
   background-color: var(--md-accent-fg-color--transparent);
   border-left: .2rem solid var(--md-accent-fg-color);

@@ -33,7 +33,7 @@ Sempre que uma etapa depender de um retorno do cliente e ele não responder em t
     2. [08 - Script de primeiro contato](08-script-de-primeiro-contato.md)
     3. [09 - Identidade visual](09-identidade-visual.md) — *apenas se contratada*
     4. [10 - Envio da playlist (Standard)](10-envio-da-playlist-standard.md) — *apenas plano Standard*
-4. Configuração dos itens contratados e treinamento
+4. Configuração dos itens contratados e treinamento — *apenas planos Enterprise*
     1. [11 - Solicitação de modelos de documentos](11-solicitacao-modelos-documentos.md) — *se aplicável*
     2. [12 - Cadastro de empresas e diretórios](12-cadastro-de-empresas-e-diretorios.md) — *se aplicável*
     3. [13 - Agendamento do treinamento](13-agendamento-do-treinamento.md)
@@ -41,7 +41,7 @@ Sempre que uma etapa depender de um retorno do cliente e ele não responder em t
     5. [15 - Solicitação do envio inteligente](15-solicitacao-do-envio-inteligente.md) — *apenas se contratado, solicitado só depois do treinamento*
     6. [16 - Finalização da implantação](16-finalizacao-da-implantacao.md)
 
-<!-- TODO: confirmar com Breno se a fase 4 (itens 11-16) se aplica também a clientes do plano Standard quando esses itens forem contratados, ou se é exclusiva do Enterprise. A página [10 - Envio da playlist (Standard)](10-envio-da-playlist-standard.md) diz que a implantação Standard encerra no primeiro acesso, o que parece conflitar com isso. -->
+Clientes do plano Standard não passam pela fase 4 — a implantação Standard encerra no passo 10 (envio da playlist).
 
 ## Se travar
 

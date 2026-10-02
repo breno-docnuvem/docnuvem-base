@@ -16,15 +16,18 @@ theme:
       primary: custom
       accent: custom
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Alternar para modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: custom
       accent: custom
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Alternar para modo claro
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
   features:
     - navigation.tabs
     - navigation.sections
@@ -37,6 +40,7 @@ theme:
     repo: fontawesome/brands/github
 
 extra_css:
+  - https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&display=swap
   - stylesheets/extra.css
 
 markdown_extensions:

@@ -1,44 +1,353 @@
-/* Identidade visual Docnuvem
-   Primária:  #101820 (navy)
-   Secundária: #196bfb (azul)
-   Terciária: #f2f2f2 (quase-branco)
-   Ver: theme.palette (primary/accent: custom) em mkdocs.yml */
+/* Identidade visual Docnuvem — tokens do canvas "Identidade e Design".
+   Navy #0F1B2D (cabeçalho/rodapé), azul #196BFB (accent), neutros frios.
+   Cada esquema (claro/escuro) define os tokens --dn-* e mapeia para as
+   variáveis --md-* do Material. Ver theme.palette (primary/accent:
+   custom) e theme.font em mkdocs.yml. Sora (títulos) vem de extra_css. */
 
-[data-md-color-primary="custom"] {
-  --md-primary-fg-color: #101820;
-  --md-primary-fg-color--light: #343b41;
-  --md-primary-fg-color--dark: #0e141b;
-  --md-primary-bg-color: #f2f2f2;
-  --md-primary-bg-color--light: #f2f2f2;
-}
+/* ---------- 1. Tokens → variáveis do Material ---------- */
 
-[data-md-color-accent="custom"] {
-  --md-accent-fg-color: #196bfb;
+[data-md-color-scheme="default"] {
+  --dn-surface: #F5F7FA;
+  --dn-surface-2: #EBF0F6;
+  --dn-border: #D8E0EA;
+  --dn-border-strong: #7E8DA3;
+  --dn-active-bg: #E6F0FF;
+  --dn-visited: #6B3FC0;
+  --dn-focus: #196BFB;
+  --dn-focus-dark: #8DBBFF;
+  --dn-tab-line: #8DBBFF;
+  --dn-head-muted: #B4C2D6;
+  --dn-code-text: #1B2A3E;
+
+  --dn-info-fg: #1457D1; --dn-info-bg: #EAF2FF; --dn-info-bd: #8DB3F5;
+  --dn-tip-fg: #0B6B63;  --dn-tip-bg: #E5F6F4;  --dn-tip-bd: #6FC7BE;
+  --dn-ok-fg: #11663A;   --dn-ok-bg: #E8F6EE;   --dn-ok-bd: #8FD1AB;
+  --dn-warn-fg: #7A4A00; --dn-warn-bg: #FFF5DF; --dn-warn-bd: #E6A82E;
+  --dn-err-fg: #A8201A;  --dn-err-bg: #FDECEB;  --dn-err-bd: #E5877F;
+  --dn-pend-fg: #5B3BB5; --dn-pend-bg: #F0EBFD; --dn-pend-bd: #B4A0EE;
+
+  --md-primary-fg-color: #0F1B2D;
+  --md-primary-fg-color--light: #1B2B44;
+  --md-primary-fg-color--dark: #08101A;
+  --md-primary-bg-color: #F2F6FB;
+  --md-primary-bg-color--light: #B4C2D6;
+
+  --md-accent-fg-color: #196BFB;
   --md-accent-fg-color--transparent: #196bfb1a;
-  --md-accent-bg-color: #f2f2f2;
-  --md-accent-bg-color--light: #f2f2f2;
+  --md-accent-bg-color: #FFFFFF;
+  --md-accent-bg-color--light: #FFFFFF;
+
+  --md-typeset-a-color: #1457D1;
+  --md-default-bg-color: #FFFFFF;
+  --md-default-fg-color: #131C28;
+  --md-default-fg-color--light: #46556A;
+  --md-default-fg-color--lighter: #7E8DA3;
+  --md-default-fg-color--lightest: #D8E0EA;
+  --md-typeset-color: #131C28;
+
+  --md-code-bg-color: #F1F4F8;
+  --md-code-fg-color: #1B2A3E;
+  --md-code-hl-keyword-color: #1457D1;
+  --md-code-hl-string-color: #0B6E42;
+  --md-code-hl-comment-color: #5A6A80;
+  --md-code-hl-number-color: #A34A06;
+
+  --md-footer-bg-color: #0F1B2D;
+  --md-footer-bg-color--dark: #08101A;
 }
 
-/* No modo escuro, links de conteúdo e o item ativo do menu lateral usam
-   --md-typeset-a-color, que por padrão espelha a cor primária (#101820).
-   Isso fica ilegível sobre o fundo escuro do modo slate, então trocamos
-   por branco-quase (terciária) nesse modo — o hover continua usando o
-   azul secundário (--md-accent-fg-color), então o link ainda se destaca
-   ao passar o mouse. */
-[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
-  --md-typeset-a-color: #f2f2f2;
+[data-md-color-scheme="slate"] {
+  --dn-surface: #111B27;
+  --dn-surface-2: #182535;
+  --dn-border: #263649;
+  --dn-border-strong: #61758F;
+  --dn-active-bg: #14284A;
+  --dn-visited: #B7A0FF;
+  --dn-focus: #8DBBFF;
+  --dn-focus-dark: #8DBBFF;
+  --dn-tab-line: #8DBBFF;
+  --dn-head-muted: #A9B8CC;
+  --dn-code-text: #DCE6F2;
+
+  --dn-info-fg: #8DBBFF; --dn-info-bg: #0F2038; --dn-info-bd: #285190;
+  --dn-tip-fg: #5ED8CB;  --dn-tip-bg: #0E2624;  --dn-tip-bd: #1F625C;
+  --dn-ok-fg: #6FD39B;   --dn-ok-bg: #0F2619;   --dn-ok-bd: #1F5A3A;
+  --dn-warn-fg: #F4C05A; --dn-warn-bg: #2A2010; --dn-warn-bd: #7A5A17;
+  --dn-err-fg: #FF9A92;  --dn-err-bg: #2C1514;  --dn-err-bd: #7A2A26;
+  --dn-pend-fg: #C3B2FF; --dn-pend-bg: #1D1735; --dn-pend-bd: #4F3F93;
+
+  --md-primary-fg-color: #08101A;
+  --md-primary-fg-color--light: #14233A;
+  --md-primary-fg-color--dark: #060C14;
+  --md-primary-bg-color: #F2F6FB;
+  --md-primary-bg-color--light: #A9B8CC;
+
+  --md-accent-fg-color: #5B9BFF;
+  --md-accent-fg-color--transparent: #5b9bff26;
+  --md-accent-bg-color: #0B121B;
+  --md-accent-bg-color--light: #0B121B;
+
+  --md-typeset-a-color: #78AEFF;
+  --md-default-bg-color: #0B121B;
+  --md-default-fg-color: #E8EEF6;
+  --md-default-fg-color--light: #A4B3C7;
+  --md-default-fg-color--lighter: #61758F;
+  --md-default-fg-color--lightest: #263649;
+  --md-typeset-color: #E8EEF6;
+
+  --md-code-bg-color: #0F1823;
+  --md-code-fg-color: #DCE6F2;
+  --md-code-hl-keyword-color: #7DB2FF;
+  --md-code-hl-string-color: #6FD39B;
+  --md-code-hl-comment-color: #8FA2BA;
+  --md-code-hl-number-color: #F0A35E;
+
+  --md-footer-bg-color: #08101A;
+  --md-footer-bg-color--dark: #060C14;
 }
 
-/* Logo no cabeçalho: a arte é um wordmark (150x32), então damos mais
-   espaço horizontal do que o ícone quadrado padrão do tema. */
+/* ---------- 2. Tipografia e largura de leitura ---------- */
+
+.md-typeset {
+  font-size: .85rem;
+  line-height: 1.7;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: Sora, var(--md-text-font-family), sans-serif;
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+  letter-spacing: -.015em;
+}
+
+.md-typeset h1 { font-size: 2.2em; line-height: 1.2; margin-bottom: .7em; }
+.md-typeset h2 { font-size: 1.5em; line-height: 1.3; margin: 2.2em 0 .6em; }
+.md-typeset h3 { font-size: 1.2em; line-height: 1.35; margin: 1.6em 0 .5em; }
+
+.md-content__inner { max-width: 40rem; }
+
+/* ---------- 3. Links (conteúdo) e foco visível ---------- */
+
+.md-typeset a:not(.headerlink) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.md-typeset a:not(.headerlink):hover {
+  text-decoration-thickness: 2px;
+}
+
+.md-typeset a:not(.headerlink):visited {
+  color: var(--dn-visited);
+}
+
+:focus-visible {
+  outline: 3px solid var(--dn-focus);
+  outline-offset: 2px;
+}
+
+.md-header :focus-visible,
+.md-tabs :focus-visible {
+  outline-color: var(--dn-focus-dark);
+}
+
+/* ---------- 4. Cabeçalho, abas e busca ---------- */
+
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
   height: 1.4rem;
   width: auto;
 }
 
-/* Player de vídeo incorporado (YouTube etc.), responsivo em 16:9.
+.md-tabs__link {
+  opacity: 1;
+  color: var(--dn-head-muted);
+  font-family: Sora, var(--md-text-font-family), sans-serif;
+  font-weight: 500;
+}
+
+.md-tabs__link:hover {
+  color: #FFFFFF;
+}
+
+.md-tabs__item--active .md-tabs__link {
+  color: #FFFFFF;
+  font-weight: 600;
+  box-shadow: inset 0 -3px 0 var(--dn-tab-line);
+}
+
+@media screen and (min-width: 60em) {
+  .md-search__form {
+    border-radius: 10px;
+    border: 1px solid #ffffff33;
+  }
+}
+
+/* ---------- 5. Menus laterais (esquerdo e "Nesta página") ---------- */
+
+.md-nav--primary .md-nav__item,
+.md-nav--primary .md-nav__title,
+.md-nav--secondary .md-nav__item,
+.md-nav--secondary .md-nav__title {
+  font-size: .85rem;
+}
+
+.md-nav--primary .md-nav__link,
+.md-nav--secondary .md-nav__link {
+  border-radius: 8px;
+  padding: .2rem .5rem;
+  margin: .1rem 0;
+  color: var(--md-default-fg-color--light);
+  transition: background-color 125ms, color 125ms;
+}
+
+.md-nav--primary .md-nav__item .md-nav__link:hover,
+.md-nav--primary .md-nav__item .md-nav__link:focus,
+.md-nav--secondary .md-nav__item .md-nav__link:hover,
+.md-nav--secondary .md-nav__item .md-nav__link:focus {
+  background-color: var(--dn-surface-2);
+  color: var(--md-default-fg-color);
+}
+
+/* seções-pai na trilha da página atual */
+.md-nav--primary .md-nav__item--active > .md-nav__link:not(.md-nav__link--active) {
+  color: var(--md-default-fg-color);
+  font-weight: 700;
+}
+
+/* página atual */
+.md-nav--primary .md-nav__item .md-nav__link--active {
+  background-color: var(--dn-active-bg);
+  color: var(--md-typeset-a-color);
+  font-weight: 700;
+}
+
+/* índice "Nesta página": trilho à esquerda, ativo com a cor accent */
+.md-nav--secondary .md-nav__link {
+  border-radius: 0;
+  border-left: 2px solid var(--dn-border);
+  padding: .25rem 0 .25rem .7rem;
+}
+
+.md-nav--secondary .md-nav__item .md-nav__link:hover,
+.md-nav--secondary .md-nav__item .md-nav__link:focus {
+  background-color: transparent;
+  border-left-color: var(--dn-border-strong);
+}
+
+.md-nav--secondary .md-nav__item .md-nav__link--active {
+  background-color: transparent;
+  color: var(--md-typeset-a-color);
+  font-weight: 700;
+  border-left-color: var(--md-accent-fg-color);
+}
+
+/* gaveta no mobile: alvos de toque de pelo menos 44px */
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__link {
+    padding: .6rem .8rem;
+    margin: 0;
+    border-radius: 0;
+  }
+}
+
+/* ---------- 6. Código e tabelas ---------- */
+
+.md-typeset :not(pre) > code {
+  border: 1px solid var(--dn-border);
+  border-radius: 6px;
+  padding: 1px 6px;
+  font-size: .86em;
+}
+
+.md-typeset pre > code {
+  border: 1px solid var(--dn-border);
+  border-radius: 12px;
+}
+
+.md-typeset table:not([class]) {
+  border-color: var(--dn-border);
+  border-radius: 12px;
+  overflow: hidden;
+  font-size: .75rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--dn-surface-2);
+  color: var(--md-default-fg-color);
+  font-family: Sora, var(--md-text-font-family), sans-serif;
+  font-weight: 600;
+}
+
+.md-typeset table:not([class]) td {
+  border-top-color: var(--dn-border);
+}
+
+/* ---------- 7. Avisos (admonitions) ---------- */
+
+.md-typeset :is(.admonition, details) {
+  border-radius: 12px;
+  border-width: 1px;
+  box-shadow: none;
+  font-size: .8rem;
+  background-color: var(--dn-ad-bg, var(--dn-info-bg));
+  border-color: var(--dn-ad-bd, var(--dn-info-bd));
+}
+
+.md-typeset :is(.admonition, details) > :is(.admonition-title, summary) {
+  background-color: transparent;
+  color: var(--dn-ad-fg, var(--dn-info-fg));
+  font-family: Sora, var(--md-text-font-family), sans-serif;
+  font-weight: 600;
+}
+
+.md-typeset :is(.admonition, details) > :is(.admonition-title, summary)::before {
+  background-color: var(--dn-ad-fg, var(--dn-info-fg));
+}
+
+.md-typeset :is(.admonition, details):is(.note, .abstract, .summary, .tldr, .info, .todo, .quote, .cite) {
+  --dn-ad-fg: var(--dn-info-fg); --dn-ad-bg: var(--dn-info-bg); --dn-ad-bd: var(--dn-info-bd);
+}
+.md-typeset :is(.admonition, details):is(.tip, .hint, .important) {
+  --dn-ad-fg: var(--dn-tip-fg); --dn-ad-bg: var(--dn-tip-bg); --dn-ad-bd: var(--dn-tip-bd);
+}
+.md-typeset :is(.admonition, details):is(.success, .check, .done) {
+  --dn-ad-fg: var(--dn-ok-fg); --dn-ad-bg: var(--dn-ok-bg); --dn-ad-bd: var(--dn-ok-bd);
+}
+.md-typeset :is(.admonition, details):is(.warning, .caution, .attention) {
+  --dn-ad-fg: var(--dn-warn-fg); --dn-ad-bg: var(--dn-warn-bg); --dn-ad-bd: var(--dn-warn-bd);
+}
+.md-typeset :is(.admonition, details):is(.failure, .fail, .missing, .danger, .error, .bug) {
+  --dn-ad-fg: var(--dn-err-fg); --dn-ad-bg: var(--dn-err-bg); --dn-ad-bd: var(--dn-err-bd);
+}
+.md-typeset :is(.admonition, details):is(.question, .help, .faq, .example, .pending) {
+  --dn-ad-fg: var(--dn-pend-fg); --dn-ad-bg: var(--dn-pend-bg); --dn-ad-bd: var(--dn-pend-bd);
+}
+
+/* o Material define border-color por tipo com a mesma especificidade;
+   repetimos aqui, depois dos grupos, para os tokens vencerem */
+.md-typeset :is(.admonition, details):is(.note, .abstract, .summary, .tldr, .info, .todo, .quote, .cite, .tip, .hint, .important, .success, .check, .done, .warning, .caution, .attention, .failure, .fail, .missing, .danger, .error, .bug, .question, .help, .faq, .example, .pending) {
+  border-color: var(--dn-ad-bd);
+}
+
+/* tipo novo "pending": borda tracejada. Uso: !!! pending "Pendente" */
+.md-typeset :is(.admonition, details).pending {
+  border-style: dashed;
+  border-width: 1.5px;
+}
+
+.md-typeset .pending > :is(.admonition-title, summary)::before {
+  -webkit-mask-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>');
+  mask-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>');
+}
+
+/* ---------- 8. Vídeo incorporado (YouTube etc.), 16:9 ----------
    Uso: <div class="video-wrapper"><iframe src="..."></iframe></div> */
+
 .video-wrapper {
   position: relative;
   height: 0;
@@ -46,6 +355,8 @@
   margin: 1em 0;
   overflow: hidden;
   max-width: 100%;
+  border-radius: 14px;
+  border: 1px solid var(--dn-border);
 }
 
 .video-wrapper iframe {
@@ -57,60 +368,26 @@
   border: 0;
 }
 
-/* Caixa de navegação "passo anterior / próximo passo" (páginas de etapa
-   numeradas, ex.: base-de-conhecimento/implantacao/). Aplicada via
-   attr_list: linha {: .prevnext-nav } logo abaixo do parágrafo de nav —
-   ver scripts/gen-implantacao-prevnext.py. Usa as mesmas variáveis de
-   cor do accent, então se adapta sozinha ao modo claro/escuro. */
+/* ---------- 9. Caixa "passo anterior / próximo passo" ----------
+   Páginas de etapa numeradas (ex.: base-de-conhecimento/implantacao/).
+   Aplicada via attr_list: linha {: .prevnext-nav } logo abaixo do
+   parágrafo de nav — ver scripts/gen-implantacao-prevnext.py. */
+
 .prevnext-nav {
   margin: 1.25em 0;
-  padding: 0.7em 1em;
-  border-radius: 0.2rem;
-  background-color: var(--md-accent-fg-color--transparent);
-  border-left: 0.25rem solid var(--md-accent-fg-color);
-  font-size: 0.75rem;
+  padding: .75em 1.1em;
+  border-radius: 12px;
+  background-color: var(--dn-active-bg);
+  border: 1px solid var(--dn-border);
+  border-left: .25rem solid var(--md-accent-fg-color);
+  font-size: .8rem;
 }
 
 .prevnext-nav a {
   font-weight: 700;
+  text-decoration: none;
 }
 
-/* Menus laterais — árvore de navegação à esquerda (.md-nav--primary) e
-   índice "Nesta página" à direita (.md-nav--secondary). O tema padrão
-   deixa todo item com o mesmo peso visual — difícil notar em que página
-   (ou em que seção da página) se está, ou o que é clicável. Aumentamos a
-   fonte um pouco, damos um respiro (padding + radius) para caber um
-   destaque, e marcamos hover e item ativo com a cor accent, igual à
-   caixa de navegação passo anterior/próximo. */
-.md-nav--primary .md-nav__item,
-.md-nav--primary .md-nav__title,
-.md-nav--secondary .md-nav__item,
-.md-nav--secondary .md-nav__title {
-  font-size: .85rem;
-}
-
-.md-nav--primary .md-nav__link,
-.md-nav--secondary .md-nav__link {
-  border-radius: .2rem;
-  padding: .2rem .4rem;
-  margin: .1rem 0;
-  transition: background-color 125ms, color 125ms;
-}
-
-.md-nav--primary .md-nav__item .md-nav__link:hover,
-.md-nav--primary .md-nav__item .md-nav__link:focus,
-.md-nav--secondary .md-nav__item .md-nav__link:hover,
-.md-nav--secondary .md-nav__item .md-nav__link:focus {
-  background-color: var(--md-accent-fg-color--transparent);
-  color: var(--md-accent-fg-color);
-}
-
-.md-nav--primary .md-nav__item .md-nav__link--active,
-.md-nav--primary .md-nav__item--active > .md-nav__link,
-.md-nav--secondary .md-nav__item .md-nav__link--active,
-.md-nav--secondary .md-nav__item--active > .md-nav__link {
-  font-weight: 700;
-  background-color: var(--md-accent-fg-color--transparent);
-  border-left: .2rem solid var(--md-accent-fg-color);
-  padding-left: calc(.4rem - .2rem);
+.prevnext-nav a:visited {
+  color: var(--md-typeset-a-color);
 }

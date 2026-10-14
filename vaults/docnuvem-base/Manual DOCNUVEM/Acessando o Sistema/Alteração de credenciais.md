@@ -4,8 +4,14 @@ Após fazer login com sucesso, o usuário pode alterar o nome de perfil e a senh
 
 É recomendado alterar a senha periodicamente para manter a segurança do acesso.
 
-[Print sugerido: images/acessando-o-sistema/alteracao-de-credenciais/01-acesso-configuracoes-conta.png | Instrução: mostrar onde o usuário acessa as configurações da conta ou perfil.]
+![[Manual DOCNUVEM/images/acessando-o-sistema/alteracao-de-credenciais/01-acesso-configuracoes-conta.png]]
 
-[Print sugerido: images/acessando-o-sistema/alteracao-de-credenciais/02-alterar-dados-perfil.png | Instrução: mostrar a tela de alteração de nome de perfil ou dados da conta.]
+*Figura 1. Menu do usuário, no canto superior direito, com a opção Perfil.*
 
-[Print sugerido: images/acessando-o-sistema/alteracao-de-credenciais/03-alterar-senha.png | Instrução: mostrar a área de alteração de senha com os campos necessários.]
+![[Manual DOCNUVEM/images/acessando-o-sistema/alteracao-de-credenciais/02-alterar-dados-perfil.png]]
+
+*Figura 2. Aba Perfil, com o campo Nome e a foto do perfil.*
+
+![[Manual DOCNUVEM/images/acessando-o-sistema/alteracao-de-credenciais/03-alterar-senha.png]]
+
+*Figura 3. Aba Alterar senha, com os campos de senha atual e nova senha.*

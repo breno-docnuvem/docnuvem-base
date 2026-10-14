@@ -6,7 +6,9 @@ Para acessar o Docnuvem, siga os passos abaixo.
 
 Abra seu navegador e acesse a página de login do sistema.
 
-[Print sugerido: images/acessando-o-sistema/fazendo-login-no-sistema/01-pagina-de-login.png | Instrução: mostrar a página de login do Docnuvem com os campos de usuário e senha visíveis.]
+![[Manual DOCNUVEM/images/acessando-o-sistema/fazendo-login-no-sistema/01-pagina-de-login.png]]
+
+*Figura 1. Página de login do Docnuvem, com os campos de login e senha.*
 
 ## 2. Informar usuário e senha
 

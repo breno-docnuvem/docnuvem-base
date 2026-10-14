@@ -6,13 +6,17 @@ Use este guia para remover um registro de **Empresa**, **AR** ou **Agência**.
 
 Acessar a listagem do cadastro e usar o balão **Filtrar** para encontrar o registro que será excluído.
 
-[Print sugerido: images/meus-cadastros/como-excluir-uma-empresa-ar-ou-agencia/01-filtrar-registro.png | Instrução: mostrar a listagem com os filtros de busca do cadastro de Empresa, AR ou Agência.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-uma-empresa-ar-ou-agencia/01-filtrar-registro.png]]
+
+*Figura 1. Painel de filtros da listagem do cadastro.*
 
 ## 2. Acionar a exclusão
 
 Na coluna **Ações**, clicar no ícone de lixeira do registro.
 
-[Print sugerido: images/meus-cadastros/como-excluir-uma-empresa-ar-ou-agencia/02-acao-excluir.png | Instrução: mostrar a coluna Ações com o ícone de lixeira destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-uma-empresa-ar-ou-agencia/02-acao-excluir.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lixeira destacado.*
 
 ## 3. Confirmar a exclusão
 

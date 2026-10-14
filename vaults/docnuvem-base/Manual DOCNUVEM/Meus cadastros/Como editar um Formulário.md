@@ -14,13 +14,17 @@ Se estiver na tela de cadastro, clicar em **Voltar aos formulários**.
 
 Clicar no balão **Filtrar**, informar o nome do formulário desejado e clicar em **Filtrar**.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-formulario/02-filtrar-formulario.png | Instrução: mostrar o painel de filtros da listagem de formulários com o campo de nome destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-formulario/02-filtrar-formulario.png]]
+
+*Figura 1. Painel de filtros, com o campo de nome do formulário.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do formulário.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-formulario/03-acao-editar.png | Instrução: mostrar a coluna Ações com o ícone de lápis destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-formulario/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

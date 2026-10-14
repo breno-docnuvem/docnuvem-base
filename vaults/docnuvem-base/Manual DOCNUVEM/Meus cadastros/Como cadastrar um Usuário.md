@@ -6,19 +6,25 @@ Este guia explica como criar um novo usuário e configurar suas permissões de a
 
 No menu principal, acessar **Meus cadastros** e clicar em **Usuários**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-usuario/01-menu-usuarios.png | Instrução: mostrar o menu Meus cadastros com a opção Usuários destacada.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-usuario/01-menu-usuarios.png]]
+
+*Figura 1. Menu Meus cadastros, com a opção Usuários destacada.*
 
 ## 2. Iniciar um novo usuário
 
 Na tela de listagem, clicar em **Cadastrar novo usuário**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-usuario/02-cadastrar-novo-usuario.png | Instrução: mostrar a listagem de usuários com o botão Cadastrar novo usuário destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-usuario/02-cadastrar-novo-usuario.png]]
+
+*Figura 2. Listagem de usuários, com o botão Cadastrar novo usuário destacado.*
 
 ## 3. Preencher as informações do usuário
 
 Preencher os campos obrigatórios com os dados de identificação do usuário, como **Nome**, **CPF** e **E-mail**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-usuario/03-dados-do-usuario.png | Instrução: mostrar os campos principais do cadastro de usuário destacados.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-usuario/03-dados-do-usuario.png]]
+
+*Figura 3. Cadastro de usuário, com o campo Nível de acesso destacado.*
 
 ## 4. Definir o nível de acesso
 
@@ -32,7 +38,9 @@ Na aba **Diretórios com permissão**, selecionar as pastas e subpastas que o us
 
 Também definir se ele poderá visualizar, criar, editar ou excluir documentos e pastas.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-usuario/05-diretorios-com-permissao.png | Instrução: mostrar a aba Diretórios com permissão com permissões destacadas.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-usuario/05-diretorios-com-permissao.png]]
+
+*Figura 4. Aba Diretórios com permissão, com as opções Leitura, Criação e Edição e Exclusão.*
 
 ## 6. Definir outras permissões
 
@@ -40,7 +48,9 @@ Na aba **Outras Permissões**, marcar as permissões adicionais necessárias par
 
 Essas permissões controlam ações sobre diretórios, documentos e outras funcionalidades.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-usuario/06-outras-permissoes.png | Instrução: mostrar a aba Outras Permissões com exemplos de opções destacadas.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-usuario/06-outras-permissoes.png]]
+
+*Figura 5. Aba Outras permissões, com as permissões complementares do usuário.*
 
 ## 7. Salvar o usuário
 

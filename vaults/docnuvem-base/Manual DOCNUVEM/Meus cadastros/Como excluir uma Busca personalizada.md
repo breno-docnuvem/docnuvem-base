@@ -6,13 +6,17 @@ Use este guia para remover uma busca personalizada cadastrada.
 
 Acessar a listagem de **Busca personalizada** e usar o balão **Filtrar** para encontrar o registro.
 
-[Print sugerido: images/meus-cadastros/como-excluir-uma-busca-personalizada/01-filtrar-busca.png | Instrução: mostrar a listagem de buscas personalizadas com o filtro aberto.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-uma-busca-personalizada/01-filtrar-busca.png]]
+
+*Figura 1. Painel de filtro da listagem de buscas personalizadas.*
 
 ## 2. Acionar a exclusão
 
 Na coluna **Ações**, clicar no ícone de lixeira da busca personalizada.
 
-[Print sugerido: images/meus-cadastros/como-excluir-uma-busca-personalizada/02-acao-excluir.png | Instrução: mostrar a coluna Ações com o ícone de lixeira destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-uma-busca-personalizada/02-acao-excluir.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lixeira destacado.*
 
 ## 3. Confirmar a exclusão
 

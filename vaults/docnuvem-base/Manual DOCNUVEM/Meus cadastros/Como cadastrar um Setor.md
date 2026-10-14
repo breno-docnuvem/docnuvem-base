@@ -6,19 +6,25 @@ Este guia explica como criar um novo setor.
 
 No menu principal, acessar **Meus cadastros** e clicar em **Setores**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-setor/01-menu-setores.png | Instrução: mostrar o menu Meus cadastros com a opção Setores destacada.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-setor/01-menu-setores.png]]
+
+*Figura 1. Menu Meus cadastros, com a opção Setores destacada.*
 
 ## 2. Iniciar um novo setor
 
 Na tela de listagem, clicar em **Cadastrar novo setor**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-setor/02-cadastrar-novo-setor.png | Instrução: mostrar a listagem de setores com o botão Cadastrar novo setor destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-setor/02-cadastrar-novo-setor.png]]
+
+*Figura 2. Listagem de setores, com o botão Cadastrar novo setor destacado.*
 
 ## 3. Informar o nome
 
 Na tela exibida, informar o nome do setor.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-setor/03-nome-do-setor.png | Instrução: mostrar o campo de nome do setor destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-setor/03-nome-do-setor.png]]
+
+*Figura 3. Janela Novo setor, com o campo de nome e o botão Criar.*
 
 ## 4. Criar o setor
 

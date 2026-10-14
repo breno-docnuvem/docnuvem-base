@@ -6,19 +6,25 @@ Este guia explica como criar um formulário e adicionar seus itens.
 
 No menu principal, acessar **Meus cadastros** e clicar em **Formulário**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-formulario/01-menu-formulario.png | Instrução: mostrar o menu Meus cadastros com a opção Formulário destacada.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-formulario/01-menu-formulario.png]]
+
+*Figura 1. Menu Meus cadastros, com a opção Formulário destacada.*
 
 ## 2. Iniciar um novo formulário
 
 Na tela de listagem, clicar em **Cadastrar novo formulário**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-formulario/02-cadastrar-novo-formulario.png | Instrução: mostrar a listagem de formulários com o botão Cadastrar novo formulário destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-formulario/02-cadastrar-novo-formulario.png]]
+
+*Figura 2. Listagem de formulários, com o botão Cadastrar novo formulário destacado.*
 
 ## 3. Preencher os dados do formulário
 
 Informar o **Nome**, o **Intervalo em dias para alerta de vencimento** e a **Descrição**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-formulario/03-dados-do-formulario.png | Instrução: mostrar os campos principais do formulário destacados.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-formulario/03-dados-do-formulario.png]]
+
+*Figura 3. Dados do formulário: nome, intervalo de alerta e descrição.*
 
 ## 4. Adicionar itens
 
@@ -26,7 +32,9 @@ Antes de salvar, clicar em **Adicionar** para inserir os itens do formulário.
 
 Para cada item, informar a descrição, escolher o tipo de campo e indicar se o preenchimento será obrigatório.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-um-formulario/04-adicionar-itens.png | Instrução: mostrar a área de itens do formulário com o botão Adicionar e os campos do item destacados.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-um-formulario/04-adicionar-itens.png]]
+
+*Figura 4. Área de itens do formulário, com o botão Adicionar destacado.*
 
 ## 5. Salvar o formulário
 

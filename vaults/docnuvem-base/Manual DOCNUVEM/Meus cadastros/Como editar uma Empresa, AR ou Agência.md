@@ -14,13 +14,17 @@ Se estiver na tela de cadastro, clicar em **Voltar às Empresas**, **Voltar às 
 
 Clicar no balão **Filtrar**, informar os critérios de busca desejados e clicar em **Filtrar**.
 
-[Print sugerido: images/meus-cadastros/como-editar-uma-empresa-ar-ou-agencia/02-filtros.png | Instrução: mostrar o painel de filtros aberto com o botão Filtrar destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-uma-empresa-ar-ou-agencia/02-filtros.png]]
+
+*Figura 1. Painel de filtros aberto, com o botão Filtrar destacado.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do registro que será alterado.
 
-[Print sugerido: images/meus-cadastros/como-editar-uma-empresa-ar-ou-agencia/03-acao-editar.png | Instrução: mostrar a listagem com a coluna Ações e destacar o ícone de lápis.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-uma-empresa-ar-ou-agencia/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

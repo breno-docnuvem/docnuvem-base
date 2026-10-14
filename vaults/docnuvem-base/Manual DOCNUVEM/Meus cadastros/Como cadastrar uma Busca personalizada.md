@@ -8,19 +8,25 @@ Use este cadastro quando a equipe realiza consultas recorrentes e precisa evitar
 
 No menu principal, acessar **Meus cadastros** e clicar em **Busca personalizada**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-uma-busca-personalizada/01-menu-busca-personalizada.png | Instrução: mostrar o menu Meus cadastros com a opção Busca personalizada destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-uma-busca-personalizada/01-menu-busca-personalizada.png]]
+
+*Figura 1. Menu Meus cadastros, com a opção Busca personalizada destacada.*
 
 ## 2. Iniciar uma nova busca
 
 Na tela de listagem, clicar em **Cadastrar nova busca**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-uma-busca-personalizada/02-cadastrar-nova-busca.png | Instrução: mostrar a listagem de buscas personalizadas com o botão Cadastrar nova busca destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-uma-busca-personalizada/02-cadastrar-nova-busca.png]]
+
+*Figura 2. Listagem de buscas, com o botão Cadastrar nova busca destacado.*
 
 ## 3. Informar os dados gerais
 
 Na aba **Geral**, informar o nome da busca personalizada. Use um nome claro para facilitar a identificação na **Busca avançada**.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-uma-busca-personalizada/03-aba-geral.png | Instrução: mostrar a aba Geral do cadastro de busca personalizada, com o campo de nome destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-uma-busca-personalizada/03-aba-geral.png]]
+
+*Figura 3. Aba Geral, com o campo de nome da busca.*
 
 ## 4. Configurar os filtros
 
@@ -28,9 +34,13 @@ Acessar as abas **Arquivos** e **Diretórios** e selecionar os filtros que dever
 
 Configure apenas os critérios necessários para o objetivo da pesquisa. Quanto mais específico for o filtro, mais restrito será o resultado.
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-uma-busca-personalizada/04-filtros-arquivos.png | Instrução: mostrar a aba Arquivos com opções de filtros disponíveis.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-uma-busca-personalizada/04-filtros-arquivos.png]]
 
-[Print sugerido: images/meus-cadastros/como-cadastrar-uma-busca-personalizada/05-filtros-diretorios.png | Instrução: mostrar a aba Diretórios com opções de filtros disponíveis.]
+*Figura 4. Aba Arquivos, com os filtros de busca disponíveis.*
+
+![[Manual DOCNUVEM/images/meus-cadastros/como-cadastrar-uma-busca-personalizada/05-filtros-diretorios.png]]
+
+*Figura 5. Aba Diretórios, com os filtros de busca disponíveis.*
 
 ## 5. Salvar a busca
 

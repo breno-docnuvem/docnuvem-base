@@ -12,7 +12,9 @@ No menu principal, acessar **Meus cadastros** e clicar em **Contatos**.
 
 Clicar em **Importar contatos**.
 
-[Print sugerido: images/meus-cadastros/como-importar-contatos/02-importar-contatos.png | Instrução: mostrar o botão Importar contatos destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-importar-contatos/02-importar-contatos.png]]
+
+*Figura 1. Botão Importar contatos destacado na listagem.*
 
 ## 3. Baixar a planilha padrão
 
@@ -20,7 +22,9 @@ Na tela de importação, clicar em **Baixar planilha padrão**.
 
 Use essa planilha como modelo para preencher os dados no formato esperado pelo Docnuvem.
 
-[Print sugerido: images/meus-cadastros/como-importar-contatos/03-baixar-planilha-padrao.png | Instrução: mostrar a tela de importação com o botão Baixar planilha padrão destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-importar-contatos/03-baixar-planilha-padrao.png]]
+
+*Figura 2. Janela Importar contatos, com o botão Baixar planilha padrão destacado.*
 
 ## 4. Preencher a planilha
 
@@ -32,7 +36,9 @@ Os campos **Telefone do contato**, **CPF** e **CNPJ** devem ser preenchidos com 
 
 Após salvar a planilha preenchida, selecionar o arquivo no campo de importação e clicar em **Importar contatos**.
 
-[Print sugerido: images/meus-cadastros/como-importar-contatos/04-selecionar-e-importar-planilha.png | Instrução: mostrar o campo de seleção do arquivo e o botão Importar contatos destacados.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-importar-contatos/04-selecionar-e-importar-planilha.png]]
+
+*Figura 3. Arquivo selecionado e botão Importar contatos destacado.*
 
 ## 6. Conferir a mensagem do sistema
 

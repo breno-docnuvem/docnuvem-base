@@ -14,13 +14,17 @@ Se estiver na tela de cadastro, clicar em **Voltar aos contatos**.
 
 Clicar no balão **Filtrar**, informar os critérios de busca desejados e clicar em **Filtrar**.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-contato/02-filtrar-contato.png | Instrução: mostrar o painel de filtros da listagem de contatos.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-contato/02-filtrar-contato.png]]
+
+*Figura 1. Painel de filtros da listagem de contatos.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do contato.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-contato/03-acao-editar.png | Instrução: mostrar a coluna Ações com o ícone de lápis destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-contato/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

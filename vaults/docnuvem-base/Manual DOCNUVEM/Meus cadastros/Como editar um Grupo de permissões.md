@@ -14,13 +14,17 @@ Se estiver na tela de cadastro, clicar em **Voltar aos Grupos**.
 
 Clicar no balão **Filtrar**, informar o nome do grupo e clicar em **Filtrar**.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-grupo-de-permissoes/02-filtrar-grupo.png | Instrução: mostrar o painel de filtro com o campo de nome do grupo e o botão Filtrar destacados.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-grupo-de-permissoes/02-filtrar-grupo.png]]
+
+*Figura 1. Painel de filtro, com o campo de nome do grupo e o botão Filtrar.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do grupo.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-grupo-de-permissoes/03-acao-editar.png | Instrução: mostrar a coluna Ações com o ícone de lápis destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-grupo-de-permissoes/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

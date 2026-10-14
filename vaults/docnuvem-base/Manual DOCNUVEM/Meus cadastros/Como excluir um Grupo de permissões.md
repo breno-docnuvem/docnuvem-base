@@ -6,13 +6,17 @@ Use este guia para remover um grupo de permissões cadastrado.
 
 Acessar a listagem de **Grupo de permissões** e usar o balão **Filtrar** para encontrar o grupo.
 
-[Print sugerido: images/meus-cadastros/como-excluir-um-grupo-de-permissoes/01-filtrar-grupo.png | Instrução: mostrar a listagem de grupos com o filtro aberto.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-um-grupo-de-permissoes/01-filtrar-grupo.png]]
+
+*Figura 1. Painel de filtro da listagem de grupos.*
 
 ## 2. Acionar a exclusão
 
 Na coluna **Ações**, clicar no ícone de lixeira do grupo.
 
-[Print sugerido: images/meus-cadastros/como-excluir-um-grupo-de-permissoes/02-acao-excluir.png | Instrução: mostrar a coluna Ações com o ícone de lixeira destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-um-grupo-de-permissoes/02-acao-excluir.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lixeira destacado.*
 
 ## 3. Confirmar a exclusão
 

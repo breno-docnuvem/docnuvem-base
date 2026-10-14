@@ -12,13 +12,17 @@ No menu principal, acessar **Meus cadastros** e clicar em **Setores**.
 
 Clicar no balão **Filtrar**, informar o nome do setor e clicar em **Filtrar**.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-setor/02-filtrar-setor.png | Instrução: mostrar o painel de filtros da listagem de setores com o campo de nome destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-setor/02-filtrar-setor.png]]
+
+*Figura 1. Painel de filtros da listagem de setores.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do setor.
 
-[Print sugerido: images/meus-cadastros/como-editar-um-setor/03-acao-editar.png | Instrução: mostrar a coluna Ações com o ícone de lápis destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-editar-um-setor/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

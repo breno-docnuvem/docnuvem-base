@@ -6,13 +6,17 @@ Use este guia para remover um formulário cadastrado.
 
 Acessar a listagem de **Formulário** e usar o balão **Filtrar** para encontrar o registro.
 
-[Print sugerido: images/meus-cadastros/como-excluir-um-formulario/01-filtrar-formulario.png | Instrução: mostrar a listagem de formulários com o filtro aberto.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-um-formulario/01-filtrar-formulario.png]]
+
+*Figura 1. Painel de filtros da listagem de formulários.*
 
 ## 2. Acionar a exclusão
 
 Na coluna **Ações**, clicar no ícone de lixeira do formulário.
 
-[Print sugerido: images/meus-cadastros/como-excluir-um-formulario/02-acao-excluir.png | Instrução: mostrar a coluna Ações com o ícone de lixeira destacado.]
+![[Manual DOCNUVEM/images/meus-cadastros/como-excluir-um-formulario/02-acao-excluir.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lixeira destacado.*
 
 ## 3. Confirmar a exclusão
 

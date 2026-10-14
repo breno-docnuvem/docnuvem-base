@@ -8,15 +8,13 @@ A tela de **Busca avançada** reúne filtros detalhados para pesquisar documento
 
 No menu principal do sistema, clique em **Busca avançada**.
 
-!!! tip "Print sugerido"
-    `images/busca-avancada/acessando-a-tela-de-busca-avancada/01-menu-busca-avancada.png` — mostrar o menu principal do Docnuvem com a opção **Busca avançada** destacada por uma seta vermelha.
+![Menu lateral com a opção Busca avançada destacada.](images/busca-avancada/acessando-a-tela-de-busca-avancada/01-menu-busca-avancada.png)
 
 ### 2. Conferir a tela de busca
 
 Ao abrir a tela, confira as opções disponíveis. A busca pode ser feita pelas abas de **Busca personalizada**, **Arquivos** ou **Diretórios**, conforme o tipo de informação a localizar.
 
-!!! tip "Print sugerido"
-    `images/busca-avancada/acessando-a-tela-de-busca-avancada/02-tela-busca-avancada.png` — mostrar a tela de Busca avançada aberta, com as abas principais visíveis.
+![Tela de Busca avançada, com as abas Busca personalizada, Arquivos e Diretórios.](images/busca-avancada/acessando-a-tela-de-busca-avancada/02-tela-busca-avancada.png)
 
 **Resultado esperado:** o usuário acessa a tela de **Busca avançada** e consegue escolher o tipo de pesquisa mais adequado.
 
@@ -28,8 +26,7 @@ A Busca avançada separa os filtros por tipo de pesquisa, para que o usuário ap
 - **Arquivos:** para localizar documentos, filtrando por nome, tipo de documento, modelo, código, metadados, checklists, solicitações de preenchimento, assinaturas e formulários.
 - **Diretórios:** para localizar pastas, filtrando por nome, checklists, regras de Envio Inteligente, solicitações de preenchimento, solicitações de envio de documentos e agendamentos.
 
-!!! tip "Print sugerido"
-    `images/busca-avancada/tipos-de-pesquisa-da-busca-avancada/01-abas-tipos-pesquisa.png` — mostrar a tela de Busca avançada com as abas ou opções de pesquisa destacadas.
+![Abas de pesquisa da Busca avançada: Busca personalizada, Arquivos e Diretórios.](images/busca-avancada/tipos-de-pesquisa-da-busca-avancada/01-abas-tipos-pesquisa.png)
 
 ## Busca por arquivos
 
@@ -37,8 +34,7 @@ A Busca avançada separa os filtros por tipo de pesquisa, para que o usuário ap
 
 Na tela de Busca avançada, clique na aba **Arquivos**.
 
-!!! tip "Print sugerido"
-    `images/busca-avancada/busca-por-arquivos/01-aba-arquivos.png` — mostrar a aba **Arquivos** selecionada na Busca avançada.
+![Aba Arquivos selecionada, com os parâmetros da busca.](images/busca-avancada/busca-por-arquivos/01-aba-arquivos.png)
 
 ### 2. Informar os parâmetros principais
 
@@ -105,8 +101,7 @@ Busca documentos vinculados a formulários e itens de formulário específicos. 
 
 Na tela de Busca avançada, clique na aba **Diretórios**.
 
-!!! tip "Print sugerido"
-    `images/busca-avancada/busca-por-diretorios/01-aba-diretorios.png` — mostrar a aba **Diretórios** selecionada na Busca avançada.
+![Aba Diretórios selecionada, com os parâmetros da busca.](images/busca-avancada/busca-por-diretorios/01-aba-diretorios.png)
 
 ### 2. Informar o nome do diretório
 
@@ -179,8 +174,7 @@ Permite pesquisar usando filtros previamente configurados no Docnuvem. Use esta 
 
 Na tela de Busca avançada, acesse a aba **Busca personalizada**.
 
-!!! tip "Print sugerido"
-    `images/busca-avancada/busca-personalizada/01-aba-busca-personalizada.png` — mostrar a aba **Busca personalizada** selecionada na tela de Busca avançada.
+![Aba Busca personalizada selecionada.](images/busca-avancada/busca-personalizada/01-aba-busca-personalizada.png)
 
 ### 2. Selecionar a busca cadastrada
 

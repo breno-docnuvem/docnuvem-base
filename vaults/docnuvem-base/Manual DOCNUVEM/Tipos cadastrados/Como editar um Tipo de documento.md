@@ -14,13 +14,17 @@ Se estiver na tela de cadastro, clicar em **Voltar aos tipos de documento**.
 
 Clicar no balão **Filtrar**, informar os critérios de busca desejados e clicar em **Filtrar**.
 
-[Print sugerido: images/tipos-cadastrados/como-editar-um-tipo-de-documento/02-filtrar-tipo-documento.png | Instrução: mostrar o painel de filtros da listagem de tipos de documento.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-editar-um-tipo-de-documento/02-filtrar-tipo-documento.png]]
+
+*Figura 1. Painel de filtros da listagem de tipos de documento.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do tipo de documento.
 
-[Print sugerido: images/tipos-cadastrados/como-editar-um-tipo-de-documento/03-acao-editar.png | Instrução: mostrar a coluna Ações com o ícone de lápis destacado.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-editar-um-tipo-de-documento/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

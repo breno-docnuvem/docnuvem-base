@@ -6,7 +6,9 @@ Os itens do modelo representam os campos que serão preenchidos pelo usuário ao
 
 Na área de itens do modelo, clicar em **Adicionar**.
 
-[Print sugerido: images/meus-modelos/como-configurar-itens-no-modelo-de-documento/01-adicionar-item.png | Instrução: mostrar a área de itens do modelo de documento com o botão Adicionar destacado.]
+![[Manual DOCNUVEM/images/meus-modelos/como-configurar-itens-no-modelo-de-documento/01-adicionar-item.png]]
+
+*Figura 1. Área de itens do modelo, com os campos do item e o botão Adicionar.*
 
 ## 2. Informar a descrição
 
@@ -30,7 +32,9 @@ Se necessário, selecionar o metadado associado ao item.
 
 Também informar o **Nome do termo**, que será usado como TAG no template do documento.
 
-[Print sugerido: images/meus-modelos/como-configurar-itens-no-modelo-de-documento/04-metadado-e-termo.png | Instrução: mostrar os campos de metadado associado e Nome do termo destacados.]
+![[Manual DOCNUVEM/images/meus-modelos/como-configurar-itens-no-modelo-de-documento/04-metadado-e-termo.png]]
+
+*Figura 2. Campo Nome do termo do item, usado como TAG no template.*
 
 ## 5. Definir obrigatoriedade
 

@@ -6,13 +6,17 @@ Use este guia para remover um tipo de metadado cadastrado.
 
 Acessar a listagem de **Tipo de metadado** e usar o balão **Filtrar** para encontrar o registro.
 
-[Print sugerido: images/tipos-cadastrados/como-excluir-um-tipo-de-metadado/01-filtrar-metadado.png | Instrução: mostrar a listagem de tipos de metadado com o filtro aberto.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-excluir-um-tipo-de-metadado/01-filtrar-metadado.png]]
+
+*Figura 1. Painel de filtros da listagem de metadados.*
 
 ## 2. Acionar a exclusão
 
 Na coluna **Ações**, clicar no ícone de lixeira do metadado.
 
-[Print sugerido: images/tipos-cadastrados/como-excluir-um-tipo-de-metadado/02-acao-excluir.png | Instrução: mostrar a coluna Ações com o ícone de lixeira destacado.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-excluir-um-tipo-de-metadado/02-acao-excluir.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lixeira destacado.*
 
 ## 3. Confirmar a exclusão
 

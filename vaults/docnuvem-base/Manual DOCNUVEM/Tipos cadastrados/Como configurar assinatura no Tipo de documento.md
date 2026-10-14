@@ -6,7 +6,9 @@ Use as configurações de assinatura para definir comportamentos padrão quando 
 
 No cadastro do tipo de documento, abrir a aba **Configurações de assinatura**.
 
-[Print sugerido: images/tipos-cadastrados/como-configurar-assinatura-no-tipo-de-documento/01-aba-configuracoes-assinatura.png | Instrução: mostrar a aba Configurações de assinatura aberta no cadastro de tipo de documento.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-configurar-assinatura-no-tipo-de-documento/01-aba-configuracoes-assinatura.png]]
+
+*Figura 1. Aba Configurações de assinatura do tipo de documento.*
 
 ## 2. Definir regras da solicitação
 
@@ -22,7 +24,9 @@ Para adicionar assinantes padrão ao tipo de documento, clicar em **Adicionar**.
 
 Depois, selecionar um usuário já cadastrado no sistema.
 
-[Print sugerido: images/tipos-cadastrados/como-configurar-assinatura-no-tipo-de-documento/03-adicionar-assinante.png | Instrução: mostrar a área de assinantes com o botão Adicionar e o campo de seleção de usuário destacados.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-configurar-assinatura-no-tipo-de-documento/03-adicionar-assinante.png]]
+
+*Figura 2. Área de assinantes, com o botão Adicionar destacado.*
 
 ## 4. Salvar as configurações
 

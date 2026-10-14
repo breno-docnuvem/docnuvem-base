@@ -8,7 +8,9 @@ Na área de usuários autorizados, clicar em **Adicionar**.
 
 Depois, selecionar o usuário entre os cadastrados no sistema.
 
-[Print sugerido: images/meus-modelos/como-configurar-usuarios-e-setores-no-modelo-de-documento/01-usuarios-autorizados.png | Instrução: mostrar a área de usuários autorizados com o botão Adicionar e o campo de seleção de usuário destacados.]
+![[Manual DOCNUVEM/images/meus-modelos/como-configurar-usuarios-e-setores-no-modelo-de-documento/01-usuarios-autorizados.png]]
+
+*Figura 1. Área de usuários autorizados, com o botão Adicionar destacado.*
 
 ## 2. Adicionar setores autorizados
 
@@ -16,7 +18,9 @@ Na área de setores autorizados, clicar em **Adicionar**.
 
 Depois, selecionar um setor cadastrado no sistema.
 
-[Print sugerido: images/meus-modelos/como-configurar-usuarios-e-setores-no-modelo-de-documento/02-setores-autorizados.png | Instrução: mostrar a área de setores autorizados com o botão Adicionar e o campo de seleção de setor destacados.]
+![[Manual DOCNUVEM/images/meus-modelos/como-configurar-usuarios-e-setores-no-modelo-de-documento/02-setores-autorizados.png]]
+
+*Figura 2. Área de setores autorizados, com o botão Adicionar.*
 
 ## Resultado esperado
 

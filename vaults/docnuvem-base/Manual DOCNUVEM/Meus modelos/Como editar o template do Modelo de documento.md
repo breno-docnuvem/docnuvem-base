@@ -6,7 +6,9 @@ O template define a aparência e a estrutura do documento que será gerado pelo 
 
 No cadastro do modelo, abrir a aba **Template do modelo**.
 
-[Print sugerido: images/meus-modelos/como-editar-o-template-do-modelo-de-documento/01-aba-template.png | Instrução: mostrar a aba Template do modelo aberta.]
+![[Manual DOCNUVEM/images/meus-modelos/como-editar-o-template-do-modelo-de-documento/01-aba-template.png]]
+
+*Figura 1. Aba Template do modelo.*
 
 ## 2. Montar o documento no editor
 
@@ -14,13 +16,17 @@ Usar o editor para escrever e formatar o documento.
 
 O editor permite ajustes como número de páginas, fonte, espaçamento e outras opções de formatação.
 
-[Print sugerido: images/meus-modelos/como-editar-o-template-do-modelo-de-documento/02-editor-template.png | Instrução: mostrar o editor do template com opções de formatação destacadas.]
+![[Manual DOCNUVEM/images/meus-modelos/como-editar-o-template-do-modelo-de-documento/02-editor-template.png]]
+
+*Figura 2. Editor do template, com as opções de formatação.*
 
 ## 3. Inserir imagens
 
 Para adicionar imagens no cabeçalho ou no rodapé, clicar em **Selecionar imagem**.
 
-[Print sugerido: images/meus-modelos/como-editar-o-template-do-modelo-de-documento/03-selecionar-imagem.png | Instrução: mostrar o botão Selecionar imagem destacado no editor do template.]
+![[Manual DOCNUVEM/images/meus-modelos/como-editar-o-template-do-modelo-de-documento/03-selecionar-imagem.png]]
+
+*Figura 3. Botões Selecionar imagem, para o cabeçalho e o rodapé.*
 
 ## 4. Referenciar itens com TAGs
 
@@ -28,7 +34,9 @@ Para inserir no template os itens criados no modelo, usar o **Nome do termo** co
 
 As TAGs devem ser escritas exatamente como foram definidas no cadastro do item.
 
-[Print sugerido: images/meus-modelos/como-editar-o-template-do-modelo-de-documento/04-tags-no-template.png | Instrução: mostrar um exemplo de TAG inserida no template e o campo Nome do termo correspondente no item.]
+![[Manual DOCNUVEM/images/meus-modelos/como-editar-o-template-do-modelo-de-documento/04-tags-no-template.png]]
+
+*Figura 4. TAG [NOME] inserida no template do documento.*
 
 ## 5. Posicionar TAGs de seleção múltipla
 

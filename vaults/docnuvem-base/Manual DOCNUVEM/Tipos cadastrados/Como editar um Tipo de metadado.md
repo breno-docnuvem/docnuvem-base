@@ -14,13 +14,17 @@ Se estiver na tela de cadastro, clicar em **Voltar aos metadados**.
 
 Clicar no balão **Filtrar**, informar o nome do metadado e clicar em **Filtrar**.
 
-[Print sugerido: images/tipos-cadastrados/como-editar-um-tipo-de-metadado/02-filtrar-metadado.png | Instrução: mostrar o painel de filtros com o campo de nome do metadado e o botão Filtrar destacados.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-editar-um-tipo-de-metadado/02-filtrar-metadado.png]]
+
+*Figura 1. Painel de filtros, com o campo de nome do metadado.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do metadado.
 
-[Print sugerido: images/tipos-cadastrados/como-editar-um-tipo-de-metadado/03-acao-editar.png | Instrução: mostrar a coluna Ações com o ícone de lápis destacado.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-editar-um-tipo-de-metadado/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

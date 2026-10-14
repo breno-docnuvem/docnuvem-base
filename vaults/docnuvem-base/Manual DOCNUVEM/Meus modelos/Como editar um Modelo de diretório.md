@@ -14,13 +14,17 @@ Se estiver na tela de cadastro, clicar em **Voltar aos modelos de diretórios**.
 
 Clicar no balão **Filtrar**, informar o nome do modelo e clicar em **Filtrar**.
 
-[Print sugerido: images/meus-modelos/como-editar-um-modelo-de-diretorio/02-filtrar-modelo.png | Instrução: mostrar o painel de filtros com o campo de nome e o botão Filtrar destacados.]
+![[Manual DOCNUVEM/images/meus-modelos/como-editar-um-modelo-de-diretorio/02-filtrar-modelo.png]]
+
+*Figura 1. Painel de filtros, com o campo de nome e o botão Filtrar.*
 
 ## 3. Abrir a edição
 
 Na coluna **Ações**, clicar no ícone de lápis do modelo.
 
-[Print sugerido: images/meus-modelos/como-editar-um-modelo-de-diretorio/03-acao-editar.png | Instrução: mostrar a coluna Ações com o ícone de lápis destacado.]
+![[Manual DOCNUVEM/images/meus-modelos/como-editar-um-modelo-de-diretorio/03-acao-editar.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lápis destacado.*
 
 ## 4. Alterar e salvar
 

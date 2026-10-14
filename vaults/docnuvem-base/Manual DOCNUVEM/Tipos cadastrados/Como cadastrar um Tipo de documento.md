@@ -6,19 +6,25 @@ Este guia explica como criar um tipo de documento e configurar seus metadados.
 
 No menu principal, acessar **Tipos cadastrados** e clicar em **Tipo de documento**.
 
-[Print sugerido: images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/01-menu-tipo-documento.png | Instrução: mostrar o menu Tipos cadastrados com a opção Tipo de documento destacada.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/01-menu-tipo-documento.png]]
+
+*Figura 1. Menu Tipos cadastrados, com a opção Tipo de documento destacada.*
 
 ## 2. Iniciar um novo tipo
 
 Na tela de listagem, clicar em **Cadastrar novo tipo**.
 
-[Print sugerido: images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/02-cadastrar-novo-tipo.png | Instrução: mostrar a listagem de tipos de documento com o botão Cadastrar novo tipo destacado.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/02-cadastrar-novo-tipo.png]]
+
+*Figura 2. Listagem de tipos de documento, com o botão Cadastrar novo tipo destacado.*
 
 ## 3. Preencher as configurações gerais
 
 Na aba **Configurações gerais**, preencher os campos do tipo de documento, como o nome e demais informações disponíveis.
 
-[Print sugerido: images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/03-configuracoes-gerais.png | Instrução: mostrar a aba Configurações gerais com o campo de nome do tipo de documento destacado.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/03-configuracoes-gerais.png]]
+
+*Figura 3. Aba Configurações gerais, com o nome do tipo de documento.*
 
 ## 4. Adicionar metadados
 
@@ -26,7 +32,9 @@ Na área de metadados, clicar em **Adicionar**.
 
 Os metadados definem informações adicionais que poderão ser associadas aos documentos desse tipo e usadas em organização, busca e relatórios.
 
-[Print sugerido: images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/04-adicionar-metadado.png | Instrução: mostrar a área de metadados com o botão Adicionar destacado.]
+![[Manual DOCNUVEM/images/tipos-cadastrados/como-cadastrar-um-tipo-de-documento/04-adicionar-metadado.png]]
+
+*Figura 4. Área de metadados, com o botão Adicionar destacado.*
 
 ## 5. Configurar os metadados
 

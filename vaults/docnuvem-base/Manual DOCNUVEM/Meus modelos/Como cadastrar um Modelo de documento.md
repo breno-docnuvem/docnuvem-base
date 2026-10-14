@@ -6,19 +6,25 @@ Este guia explica como criar um novo modelo de documento.
 
 No menu principal, acessar **Meus modelos** e clicar em **Modelo de documento**.
 
-[Print sugerido: images/meus-modelos/como-cadastrar-um-modelo-de-documento/01-menu-modelo-documento.png | Instrução: mostrar o menu Meus modelos com a opção Modelo de documento destacada.]
+![[Manual DOCNUVEM/images/meus-modelos/como-cadastrar-um-modelo-de-documento/01-menu-modelo-documento.png]]
+
+*Figura 1. Menu Meus modelos, com a opção Modelo de documento destacada.*
 
 ## 2. Iniciar um novo modelo
 
 Na tela de listagem, clicar em **Cadastrar novo modelo**.
 
-[Print sugerido: images/meus-modelos/como-cadastrar-um-modelo-de-documento/02-cadastrar-novo-modelo.png | Instrução: mostrar a listagem de modelos de documento com o botão Cadastrar novo modelo destacado.]
+![[Manual DOCNUVEM/images/meus-modelos/como-cadastrar-um-modelo-de-documento/02-cadastrar-novo-modelo.png]]
+
+*Figura 2. Listagem de modelos de documento, com o botão Cadastrar novo modelo destacado.*
 
 ## 3. Preencher os dados principais
 
 Informar os dados do modelo, como **Nome**, **Descrição** e, se necessário, o **Tipo de Documento** associado.
 
-[Print sugerido: images/meus-modelos/como-cadastrar-um-modelo-de-documento/03-dados-principais.png | Instrução: mostrar os campos principais do cadastro de modelo de documento destacados.]
+![[Manual DOCNUVEM/images/meus-modelos/como-cadastrar-um-modelo-de-documento/03-dados-principais.png]]
+
+*Figura 3. Cadastro de modelo de documento: nome, descrição e tipo de documento.*
 
 ## 4. Configurar o conteúdo do modelo
 

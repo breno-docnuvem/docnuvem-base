@@ -6,13 +6,17 @@ Use este guia para remover um modelo de documento cadastrado.
 
 Acessar a listagem de **Modelo de documento** e usar o balão **Filtrar** para encontrar o registro.
 
-[Print sugerido: images/meus-modelos/como-excluir-um-modelo-de-documento/01-filtrar-modelo.png | Instrução: mostrar a listagem de modelos de documento com o filtro aberto.]
+![[Manual DOCNUVEM/images/meus-modelos/como-excluir-um-modelo-de-documento/01-filtrar-modelo.png]]
+
+*Figura 1. Painel de filtros da listagem de modelos de documento.*
 
 ## 2. Acionar a exclusão
 
 Na coluna **Ações**, clicar no ícone de lixeira do modelo.
 
-[Print sugerido: images/meus-modelos/como-excluir-um-modelo-de-documento/02-acao-excluir.png | Instrução: mostrar a coluna Ações com o ícone de lixeira destacado.]
+![[Manual DOCNUVEM/images/meus-modelos/como-excluir-um-modelo-de-documento/02-acao-excluir.png]]
+
+*Figura 2. Coluna Ações, com o ícone de lixeira destacado.*
 
 ## 3. Confirmar a exclusão
 

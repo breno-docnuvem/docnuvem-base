@@ -38,6 +38,20 @@ Clique em **Salvar**. As notificações de pendência serão enviadas automatica
 
 [Print sugerido: images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/05-salvar-pendencias.png | Instrução: mostrar o botão Salvar destacado por uma seta vermelha na tela de envio de pendências.]
 
+## Alterar a data de validade da solicitação
+
+Para prorrogar o prazo de envio dos documentos, abra a solicitação (passos 1 a 3) e clique no botão **Data de validade**.
+
+![[Manual DOCNUVEM/images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/06-data-de-validade.png]]
+
+*Figura 4. Botão Data de validade, na tela de itens da solicitação.*
+
+Na janela **Prorrogação do prazo de envio**, selecione a nova data no calendário e clique em **Ok**.
+
+![[Manual DOCNUVEM/images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/07-prorrogacao-do-prazo.png]]
+
+*Figura 5. Janela para informar a nova data de envio.*
+
 ## Observação
 
 Os documentos rejeitados são enviados automaticamente para a lixeira.

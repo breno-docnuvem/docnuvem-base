@@ -146,7 +146,7 @@ O relatório de **Auditoria** exporta o histórico de ações realizadas no Docn
     - **Ação:** tipo de ação realizada.
     - **Tipo de item** e **Nome do item:** tipo e nome do item em que a ação foi realizada.
     - **Ordenação:** define a ordem dos resultados. O padrão é **Data (Crescente)**.
-    - **Observação:** texto a procurar na observação registrada na ação.
+    - **Observação:** campo de texto para filtrar pela observação da ação.
 
     ![Tela do relatório de Auditoria, com os filtros e os botões de geração.](images/relatorios/como-gerar-o-relatorio-de-auditoria/02-tela.png)
 

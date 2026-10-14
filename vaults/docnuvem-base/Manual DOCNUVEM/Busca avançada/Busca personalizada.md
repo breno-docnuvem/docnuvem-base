@@ -8,7 +8,9 @@ Use esta opção quando houver uma busca cadastrada para um cenário recorrente,
 
 Na tela de **Busca avançada**, acessar a aba **Busca personalizada**.
 
-[Print sugerido: images/busca-avancada/busca-personalizada/01-aba-busca-personalizada.png | Instrução: mostrar a aba Busca personalizada selecionada na tela de Busca avançada.]
+![[Manual DOCNUVEM/images/busca-avancada/busca-personalizada/01-aba-busca-personalizada.png]]
+
+*Figura 1. Aba Busca personalizada selecionada.*
 
 ## 2. Selecionar a busca cadastrada
 

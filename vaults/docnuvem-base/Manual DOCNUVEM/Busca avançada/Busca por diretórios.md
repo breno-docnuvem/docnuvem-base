@@ -6,7 +6,9 @@ A **Busca por diretórios** permite localizar pastas usando filtros próprios de
 
 Na tela de **Busca avançada**, clicar na aba **Diretórios**.
 
-[Print sugerido: images/busca-avancada/busca-por-diretorios/01-aba-diretorios.png | Instrução: mostrar a aba Diretórios selecionada na Busca avançada.]
+![[Manual DOCNUVEM/images/busca-avancada/busca-por-diretorios/01-aba-diretorios.png]]
+
+*Figura 1. Aba Diretórios selecionada, com os parâmetros da busca.*
 
 ## 2. Informar o nome do diretório
 

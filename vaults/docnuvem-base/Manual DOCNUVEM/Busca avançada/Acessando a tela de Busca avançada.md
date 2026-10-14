@@ -6,13 +6,17 @@ A tela de **Busca avançada** reúne filtros detalhados para pesquisar documento
 
 No menu principal do sistema, clicar em **Busca avançada**.
 
-[Print sugerido: images/busca-avancada/acessando-a-tela-de-busca-avancada/01-menu-busca-avancada.png | Instrução: mostrar o menu principal do Docnuvem com a opção Busca avançada destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/busca-avancada/acessando-a-tela-de-busca-avancada/01-menu-busca-avancada.png]]
+
+*Figura 1. Menu lateral com a opção Busca avançada destacada.*
 
 ## 2. Conferir a tela de busca
 
 Ao abrir a tela, conferir as opções disponíveis para pesquisa. A busca pode ser feita pelas abas de **Busca personalizada**, **Arquivos** ou **Diretórios**, conforme o tipo de informação que precisa ser localizado.
 
-[Print sugerido: images/busca-avancada/acessando-a-tela-de-busca-avancada/02-tela-busca-avancada.png | Instrução: mostrar a tela de Busca avançada aberta, com as abas principais visíveis.]
+![[Manual DOCNUVEM/images/busca-avancada/acessando-a-tela-de-busca-avancada/02-tela-busca-avancada.png]]
+
+*Figura 2. Tela de Busca avançada, com as abas Busca personalizada, Arquivos e Diretórios.*
 
 ## Resultado esperado
 

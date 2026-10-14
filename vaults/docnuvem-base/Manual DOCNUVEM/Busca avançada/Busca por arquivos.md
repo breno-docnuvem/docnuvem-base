@@ -6,7 +6,9 @@ A **Busca por arquivos** permite localizar documentos usando filtros próprios d
 
 Na tela de **Busca avançada**, clicar na aba **Arquivos**.
 
-[Print sugerido: images/busca-avancada/busca-por-arquivos/01-aba-arquivos.png | Instrução: mostrar a aba Arquivos selecionada na Busca avançada.]
+![[Manual DOCNUVEM/images/busca-avancada/busca-por-arquivos/01-aba-arquivos.png]]
+
+*Figura 1. Aba Arquivos selecionada, com os parâmetros da busca.*
 
 ## 2. Informar os parâmetros principais
 

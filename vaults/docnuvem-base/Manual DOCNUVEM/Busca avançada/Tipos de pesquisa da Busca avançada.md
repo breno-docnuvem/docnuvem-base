@@ -14,7 +14,9 @@ A aba **Arquivos** deve ser usada para localizar documentos. Nela, o usuário po
 
 A aba **Diretórios** deve ser usada para localizar pastas. Nela, o usuário pode filtrar por nome do diretório, checklists, regras de **Envio Inteligente**, solicitações de preenchimento, solicitações de envio de documentos e agendamentos.
 
-[Print sugerido: images/busca-avancada/tipos-de-pesquisa-da-busca-avancada/01-abas-tipos-pesquisa.png | Instrução: mostrar a tela de Busca avançada com as abas ou opções de pesquisa destacadas.]
+![[Manual DOCNUVEM/images/busca-avancada/tipos-de-pesquisa-da-busca-avancada/01-abas-tipos-pesquisa.png]]
+
+*Figura 1. Abas de pesquisa da Busca avançada: Busca personalizada, Arquivos e Diretórios.*
 
 ## Guias relacionados
 

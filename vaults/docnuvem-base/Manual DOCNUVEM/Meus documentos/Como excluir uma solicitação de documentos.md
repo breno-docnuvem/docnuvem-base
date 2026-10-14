@@ -12,7 +12,9 @@ Na tela **Meus documentos**, acesse a pasta onde está a solicitação de docume
 
 Clique no ícone da solicitação para acessar as solicitações vinculadas à pasta.
 
-[Print sugerido: images/meus-documentos/como-excluir-uma-solicitacao-de-documentos/02-icone-da-solicitacao.png | Instrução: mostrar a pasta com o ícone da solicitação destacado por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/como-excluir-uma-solicitacao-de-documentos/02-icone-da-solicitacao.png]]
+
+*Figura 1. Coluna Solicitações, com a barra de progresso da solicitação.*
 
 ## 3. Expandir a solicitação
 

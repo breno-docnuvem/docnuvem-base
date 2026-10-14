@@ -6,13 +6,17 @@ Depois que uma solicitação de envio de documentos é criada, o Docnuvem permit
 
 Na tela **Meus documentos**, acesse a pasta onde está a solicitação de documentos.
 
-[Print sugerido: images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/01-pasta-da-solicitacao.png | Instrução: mostrar a tela Meus documentos com a pasta que contém a solicitação selecionada ou aberta.]
+![[Manual DOCNUVEM/images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/01-pasta-da-solicitacao.png]]
+
+*Figura 1. Pasta com a solicitação e o campo de progresso destacado.*
 
 ## 2. Abrir a solicitação
 
 Clique no ícone da solicitação para acessar os documentos enviados pelo destinatário.
 
-[Print sugerido: images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/02-icone-da-solicitacao.png | Instrução: mostrar a pasta com o ícone da solicitação destacado por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/02-icone-da-solicitacao.png]]
+
+*Figura 2. Coluna Solicitações, com a barra de progresso da solicitação.*
 
 ## 3. Expandir a solicitação
 
@@ -24,7 +28,9 @@ Selecione a solicitação que deseja revisar e clique para expandi-la. Os status
 
 Selecione os documentos enviados incorretamente, marque a opção **Enviar pendência** e escreva uma breve observação informando o motivo da recusa ao destinatário.
 
-[Print sugerido: images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/04-enviar-pendencia.png | Instrução: mostrar os itens da solicitação com a opção Enviar pendência, o campo de observação e alguns documentos selecionados, sem expor dados sensíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/04-enviar-pendencia.png]]
+
+*Figura 3. Itens da solicitação, com a opção Enviar pendência e o campo de observação.*
 
 ## 5. Salvar as pendências
 

@@ -22,7 +22,9 @@ A aba **Geral** exibe as informações fundamentais de identificação e localiz
 - **Diretório**: pasta onde o documento está armazenado (ex: `/Meus documentos`).
 - **Registro**: número de identificação único (ID) do documento no Docnuvem.
 
-[Print sugerido: images/meus-documentos/visualizando-documentos-e-seus-detalhes/02-aba-geral.png | Instrução: mostrar a tela de detalhes do documento com a aba Geral selecionada e destacar os campos de informações básicas.]
+![[Manual DOCNUVEM/images/meus-documentos/visualizando-documentos-e-seus-detalhes/02-aba-geral.png]]
+
+*Figura 1. Tela de detalhes do documento, com a aba Geral selecionada.*
 
 ### Aba Digitalização
 

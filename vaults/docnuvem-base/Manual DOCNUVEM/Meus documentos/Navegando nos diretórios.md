@@ -12,7 +12,9 @@ Na tela **Meus documentos**, clique no nome da pasta que deseja acessar. O Docnu
 
 Logo abaixo do campo **Buscar**, o sistema exibe o caminho até o diretório atual. Esse caminho ajuda o usuário a entender em qual pasta está navegando.
 
-[Print sugerido: images/meus-documentos/navegando-nos-diretorios/02-caminho-navegacao.png | Instrução: mostrar o caminho de navegação abaixo do campo Buscar, destacando os nomes das pastas.]
+![[Manual DOCNUVEM/images/meus-documentos/navegando-nos-diretorios/02-caminho-navegacao.png]]
+
+*Figura 1. Caminho de navegação exibido abaixo do campo Buscar.*
 
 ## 3. Voltar para uma pasta anterior
 

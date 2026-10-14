@@ -12,7 +12,9 @@ Na tela **Meus documentos**, abra a pasta onde o arquivo deverá ser armazenado.
 
 Clique em **Adicionar** e selecione a opção **Upload de arquivo**.
 
-[Print sugerido: images/meus-documentos/importando-documentos/02-upload-de-arquivo.png | Instrução: mostrar o botão Adicionar aberto com a opção Upload de arquivo destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/importando-documentos/02-upload-de-arquivo.png]]
+
+*Figura 1. Botão Adicionar aberto, com a opção Upload de arquivo.*
 
 ## 3. Selecionar o arquivo
 

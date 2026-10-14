@@ -12,7 +12,9 @@ Na tela **Meus documentos**, abra o local onde a pasta importada deverá ser cri
 
 Clique em **Adicionar** e selecione **Upload de pasta**.
 
-[Print sugerido: images/meus-documentos/importando-diretorios/02-upload-de-pasta.png | Instrução: mostrar o botão Adicionar aberto com a opção Upload de pasta destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/importando-diretorios/02-upload-de-pasta.png]]
+
+*Figura 1. Botão Adicionar aberto, com a opção Upload de pasta.*
 
 ## 3. Escolher a pasta no computador
 

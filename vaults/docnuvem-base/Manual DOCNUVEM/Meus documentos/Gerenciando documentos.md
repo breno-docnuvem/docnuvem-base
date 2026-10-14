@@ -12,7 +12,9 @@ Na tela **Meus documentos**, navegue pela estrutura de pastas até encontrar o a
 
 Para acessar as opções disponíveis, clique no botão **Ações** do documento ou clique com o botão direito do mouse sobre o nome do arquivo.
 
-[Print sugerido: images/meus-documentos/gerenciando-documentos/02-acoes-documento.png | Instrução: mostrar o menu de ações de um documento aberto, destacando o botão Ações ou o menu exibido pelo clique direito.]
+![[Manual DOCNUVEM/images/meus-documentos/gerenciando-documentos/02-acoes-documento.png]]
+
+*Figura 1. Menu de ações de um documento, aberto pelo botão Ações ou pelo clique direito.*
 
 ## 3. Escolher a ação desejada
 

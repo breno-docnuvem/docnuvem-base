@@ -12,7 +12,9 @@ Na tela **Meus documentos**, acesse a pasta onde está o agendamento que deseja 
 
 Clique no ícone de agendamentos para visualizar os agendamentos vinculados à pasta.
 
-[Print sugerido: images/meus-documentos/como-cancelar-um-agendamento-de-solicitacao-de-documentos/02-icone-de-agendamentos.png | Instrução: mostrar a pasta com o ícone de agendamentos destacado por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/como-cancelar-um-agendamento-de-solicitacao-de-documentos/02-icone-de-agendamentos.png]]
+
+*Figura 1. Ícone de agendamentos ao lado da pasta.*
 
 ## 3. Cancelar o agendamento
 

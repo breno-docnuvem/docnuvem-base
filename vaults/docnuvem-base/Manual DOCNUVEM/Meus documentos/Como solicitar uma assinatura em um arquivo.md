@@ -28,7 +28,9 @@ Na tela **Meus documentos**, localize o arquivo PDF que deverá ser assinado.
 
 Clique com o botão direito no arquivo e selecione **Solicitar assinatura**.
 
-[Print sugerido: images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/02-v1-solicitar-assinatura.png | Instrução: mostrar o menu do arquivo aberto, com a opção Solicitar assinatura destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/02-v1-solicitar-assinatura.png]]
+
+*Figura 1. Menu do arquivo, com a opção Solicitar assinatura destacada (assinador V1).*
 
 ### 3. Adicionar os assinantes
 
@@ -36,13 +38,17 @@ Na nova tela, adicione os assinantes pela opção **Contatos** ou pela opção *
 
 Também é possível ativar a selfie do assinante. As selfies registradas ficam disponíveis nos relatórios.
 
-[Print sugerido: images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/03-v1-adicionar-assinante.png | Instrução: mostrar as opções Contatos e Cadastrar e os campos de cadastro do assinante, sem expor dados sensíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/03-v1-adicionar-assinante.png]]
+
+*Figura 2. Janela de assinatura, com as opções Contato e Cadastrar (assinador V1).*
 
 ### 4. Definir a ordem de assinatura
 
 Se necessário, ative a opção **Considerar a ordem de assinatura**. Assim, os links serão enviados aos assinantes conforme a ordem definida.
 
-[Print sugerido: images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/04-v1-ordem-de-assinatura.png | Instrução: mostrar a opção Considerar a ordem de assinatura e a lista de assinantes ordenada.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/04-v1-ordem-de-assinatura.png]]
+
+*Figura 3. Lista de assinantes e opção Considerar ordem de assinatura (assinador V1).*
 
 ### 5. Adicionar observadores e ajustar a mensagem
 
@@ -50,7 +56,9 @@ Adicione os observadores que acompanharão o processo sem assinar o arquivo. Ele
 
 Se necessário, altere a mensagem enviada aos participantes. Para saber mais, consulte [[Solicitações e Compartilhamentos]].
 
-[Print sugerido: images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/05-v1-observadores-e-mensagem.png | Instrução: mostrar a área de inclusão de observadores e a configuração da mensagem da solicitação.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/05-v1-observadores-e-mensagem.png]]
+
+*Figura 4. Área de Observadores, com as opções E-mail, Usuário e Contato (assinador V1).*
 
 ## Assinador V2
 

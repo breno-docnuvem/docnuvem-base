@@ -16,7 +16,9 @@ Na tela **Meus documentos**, localize a pasta onde os documentos solicitados dev
 
 Clique com o botão direito na pasta e selecione **Solicitar envio de documentos**.
 
-[Print sugerido: images/meus-documentos/como-solicitar-o-envio-de-documentos/02-solicitar-envio-de-documentos.png | Instrução: mostrar o menu da pasta aberto, com a opção Solicitar envio de documentos destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-o-envio-de-documentos/02-solicitar-envio-de-documentos.png]]
+
+*Figura 1. Menu da pasta, com a opção Solicitar envio de documentos destacada.*
 
 ## 3. Selecionar o modelo e informar os dados do documento
 
@@ -36,7 +38,9 @@ No campo **Enviar formulário de preenchimento do modelo de documento para**, es
 
 Ao selecionar **Contato**, informe o nome, o e-mail e o telefone do destinatário.
 
-[Print sugerido: images/meus-documentos/como-solicitar-o-envio-de-documentos/05-definir-destinatario.png | Instrução: mostrar o campo Enviar formulário de preenchimento do modelo de documento para com as opções E-mail/Telefone, Usuário e Contato visíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-o-envio-de-documentos/05-definir-destinatario.png]]
+
+*Figura 2. Janela de solicitação de envio, com as opções E-mail, Usuário e Contato.*
 
 ## 6. Adicionar o destinatário
 
@@ -44,7 +48,9 @@ Depois de preencher as informações, clique em **Adicionar** para incluir o des
 
 Para alterar as permissões ou informações de envio, consulte [[Solicitações e Compartilhamentos]].
 
-[Print sugerido: images/meus-documentos/como-solicitar-o-envio-de-documentos/06-adicionar-destinatario.png | Instrução: mostrar os campos de nome, e-mail e telefone preenchidos e o botão Adicionar destacado por uma seta vermelha, sem expor dados sensíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-o-envio-de-documentos/06-adicionar-destinatario.png]]
+
+*Figura 3. Destinatário adicionado à solicitação, com o botão Adicionar destacado.*
 
 ## 7. Enviar a solicitação
 

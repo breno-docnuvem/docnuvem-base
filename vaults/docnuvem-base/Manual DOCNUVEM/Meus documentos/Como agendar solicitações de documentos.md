@@ -16,13 +16,17 @@ Na tela **Meus documentos**, localize a pasta onde os documentos enviados dever�
 
 Clique com o botão direito na pasta e selecione **Agendar solicitação (envio de documentos)**.
 
-[Print sugerido: images/meus-documentos/como-agendar-solicitacoes-de-documentos/02-agendar-solicitacao.png | Instrução: mostrar o menu da pasta aberto, com a opção Agendar solicitação (envio de documentos) destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/como-agendar-solicitacoes-de-documentos/02-agendar-solicitacao.png]]
+
+*Figura 1. Menu da pasta, com a opção Agendar solicitação (envio de documentos) destacada.*
 
 ## 3. Selecionar o modelo e informar os dados do documento
 
 Selecione o modelo de solicitação, informe o nome do documento e, se necessário, defina a data de vencimento.
 
-[Print sugerido: images/meus-documentos/como-agendar-solicitacoes-de-documentos/03-dados-do-documento.png | Instrução: mostrar a tela de agendamento com os campos de modelo de solicitação, nome do documento e data de vencimento visíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-agendar-solicitacoes-de-documentos/03-dados-do-documento.png]]
+
+*Figura 2. Janela de agendamento, com a lista de modelos de solicitação e a estrutura de pastas por período.*
 
 ## 4. Preencher os complementos do documento
 
@@ -40,7 +44,9 @@ Se necessário, ative a criação automática de diretórios para que os documen
 
 Informe o destinatário da solicitação e clique em **Adicionar**. Para orientações sobre as opções de destinatário, consulte [[Como solicitar o envio de documentos]]. Para alterar as permissões ou informações de envio, consulte [[Solicitações e Compartilhamentos]].
 
-[Print sugerido: images/meus-documentos/como-agendar-solicitacoes-de-documentos/06-adicionar-destinatario.png | Instrução: mostrar os campos do destinatário preenchidos e o botão Adicionar destacado por uma seta vermelha, sem expor dados sensíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-agendar-solicitacoes-de-documentos/06-adicionar-destinatario.png]]
+
+*Figura 3. Destinatário informado, com o botão Adicionar.*
 
 ## 7. Definir a frequência do agendamento
 
@@ -58,7 +64,9 @@ Em cada frequência, informe os parâmetros necessários para o envio da solicit
 
 **Anual:** informe a hora, selecione o mês e informe o dia.
 
-[Print sugerido: images/meus-documentos/como-agendar-solicitacoes-de-documentos/07-frequencia-agendamento.png | Instrução: mostrar a área de configuração de frequência do agendamento com as opções Diário, Semanal, Quinzenal, Mensal e Anual visíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-agendar-solicitacoes-de-documentos/07-frequencia-agendamento.png]]
+
+*Figura 4. Tipo de agendamento: Diário, Semanal, Quinzenal, Mensal e Anual.*
 
 ## 8. Confirmar o agendamento
 

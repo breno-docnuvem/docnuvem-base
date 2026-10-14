@@ -16,7 +16,9 @@ Na tela **Meus documentos**, localize a pasta onde o documento deverá ser armaz
 
 Clique com o botão direito na pasta e selecione **Selecionar preenchimento de documento**. Também é possível selecionar a pasta, clicar em **Ações** e escolher essa opção.
 
-[Print sugerido: images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/02-selecionar-preenchimento.png | Instrução: mostrar o menu da pasta ou o botão Ações aberto, com a opção Selecionar preenchimento de documento destacada por uma seta vermelha.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/02-selecionar-preenchimento.png]]
+
+*Figura 1. Menu da pasta, com a opção de preenchimento de documento destacada.*
 
 ## 3. Configurar a solicitação
 
@@ -24,7 +26,9 @@ Na janela de configurações, selecione o modelo de documento e informe o nome d
 
 Para alterar as permissões ou informações de envio, consulte [[Solicitações e Compartilhamentos]].
 
-[Print sugerido: images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/03-configurar-solicitacao.png | Instrução: mostrar a janela de configuração com o modelo, o nome do documento, a data de vencimento e o contato do destinatário visíveis, sem expor dados sensíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/03-configurar-solicitacao.png]]
+
+*Figura 2. Janela de preenchimento de documento, com o destinatário adicionado.*
 
 ## 4. Enviar a solicitação
 

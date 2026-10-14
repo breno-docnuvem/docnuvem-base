@@ -12,7 +12,9 @@ Na tela **Meus documentos**, localize a pasta que deseja gerenciar.
 
 Clique no botão **Ações** da pasta ou clique com o botão direito do mouse sobre o nome do diretório.
 
-[Print sugerido: images/meus-documentos/gerenciando-diretorios/02-acoes-diretorio.png | Instrução: mostrar o menu de ações de uma pasta aberto, destacando as opções disponíveis.]
+![[Manual DOCNUVEM/images/meus-documentos/gerenciando-diretorios/02-acoes-diretorio.png]]
+
+*Figura 1. Menu de ações de uma pasta, aberto pelo botão Ações ou pelo clique direito.*
 
 ## 3. Executar a ação desejada
 

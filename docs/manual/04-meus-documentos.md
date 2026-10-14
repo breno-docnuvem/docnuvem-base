@@ -248,7 +248,9 @@ Permite pedir arquivos a um usuário ou contato e definir a pasta em que eles de
 
 7. Clique em **Solicitar** para disparar a solicitação.
 
-<!-- TODO: as notas-fonte referenciam "Solicitações e Compartilhamentos" e "Significado dos ícones", ainda sem conteúdo no vault (pasta TODO). Completar quando existirem — confirmar com Breno. -->
+Para acompanhar o andamento dos envios, veja [Significado dos ícones](#significado-dos-icones).
+
+<!-- TODO: a nota-fonte referencia "Solicitações e Compartilhamentos", ainda sem conteúdo no vault (pasta TODO). Detalhar aqui como alterar permissões e informações de envio quando essa nota existir — confirmar com Breno. -->
 
 ### Como acompanhar e enviar pendências no envio de documentos
 
@@ -272,6 +274,14 @@ Depois que uma solicitação de envio de documentos é criada, o Docnuvem permit
 !!! info "Importante"
     Os documentos rejeitados são enviados automaticamente para a lixeira.
 
+#### Alterar a data de validade
+
+Para prorrogar o prazo de envio dos documentos, abra a solicitação e clique no botão **Data de validade**. Na janela **Prorrogação do prazo de envio**, selecione a nova data no calendário e clique em **Ok**.
+
+![Botão Data de validade, na tela de itens da solicitação.](images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/06-data-de-validade.png)
+
+![Janela para informar a nova data de envio.](images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/07-prorrogacao-do-prazo.png)
+
 ### Como excluir uma solicitação de documentos
 
 1. Acesse a pasta onde está a solicitação de documentos.
@@ -281,6 +291,28 @@ Depois que uma solicitação de envio de documentos é criada, o Docnuvem permit
 
 3. Selecione a solicitação que deseja excluir e clique para expandi-la.
 4. Na solicitação expandida, clique em **Desvincular** para excluí-la.
+
+### Como enviar uma solicitação pelo WhatsApp
+
+Depois de criar uma solicitação de preenchimento, de envio de documentos ou de assinatura, é possível enviar o link ao destinatário pelo WhatsApp. Há duas formas: usando um número já cadastrado na plataforma ou pela API aberta, que dispara o WhatsApp logado na máquina em que a solicitação está sendo feita.
+
+1. Crie a solicitação normalmente, conforme o guia do tipo escolhido. Ao final, o ícone do WhatsApp passa a aparecer na coluna **Informações** da listagem.
+
+    ![Ícone do WhatsApp na coluna Informações.](images/meus-documentos/como-enviar-uma-solicitacao-pelo-whatsapp/01-icone-whatsapp.png)
+
+2. Clique no ícone do WhatsApp. O Docnuvem abre uma janela com as solicitações da pasta. Nas solicitações de assinatura com mais de um participante, a janela lista os participantes; com um só participante, o WhatsApp Web já é aberto para iniciar a conversa.
+
+    ![Janela Solicitações, com o ícone do WhatsApp de cada destinatário.](images/meus-documentos/como-enviar-uma-solicitacao-pelo-whatsapp/02-janela-solicitacoes.png)
+
+3. Se houver um número conectado como responsável pelos envios, o Docnuvem apenas informa que a solicitação foi enviada com sucesso. Caso contrário, o WhatsApp Web é aberto com a mensagem pronta: clique em **Iniciar conversa**. Se o aplicativo do WhatsApp não estiver instalado na máquina, o WhatsApp oferece baixá-lo ou continuar pelo **WhatsApp Web**.
+
+!!! info "Importante"
+    - O ícone do WhatsApp só aparece se o número de telefone do destinatário tiver sido informado. Mantenha os telefones dos contatos atualizados.
+    - O Docnuvem usa o perfil do WhatsApp que estiver logado na máquina no momento do envio. Confirme que é o perfil que realmente deve enviar a solicitação.
+
+As solicitações agendadas também podem ser integradas ao WhatsApp. Quando a automação está configurada, o link de envio é disparado para o WhatsApp do contato responsável sempre que um novo ciclo de recorrência começa, sem acionamento manual. É indicado para rotinas recorrentes de cobrança de documentos.
+
+<!-- TODO: confirmar com Breno como ativar essa automação e como conectar um número para os envios (a nota "Como conectar o Whatsapp" ainda está vazia no vault — pasta TODO). -->
 
 ## Agendamento de solicitações
 
@@ -337,6 +369,52 @@ Programa o envio recorrente de pedidos de documentos. O preenchimento dos dados 
     ![Ícone de agendamentos ao lado da pasta.](images/meus-documentos/como-cancelar-um-agendamento-de-solicitacao-de-documentos/02-icone-de-agendamentos.png)
 
 3. Localize o agendamento e clique no ícone de lixeira.
+
+## Significado dos ícones
+
+Na listagem da tela **Meus documentos**, alguns ícones mostram o andamento das solicitações de preenchimento, de envio de documentos e de assinatura.
+
+### Ícones da coluna Informações
+
+Depois de enviar uma solicitação, três ícones aparecem na coluna **Informações**, à frente da pasta (ou do arquivo, no caso de assinatura):
+
+1. **Envio do e-mail:** mostra o status do envio do e-mail ao destinatário.
+2. **Visualização do link:** mostra o status de visualização do link do e-mail pelo destinatário.
+3. **WhatsApp:** permite enviar a solicitação pelo WhatsApp (veja [Como enviar uma solicitação pelo WhatsApp](#como-enviar-uma-solicitacao-pelo-whatsapp)).
+
+![Ícones da coluna Informações, à frente da pasta.](images/meus-documentos/significado-dos-icones/01-icones-informacoes.png)
+
+### Cores dos ícones
+
+- **Preto:** ainda não foi enviado ou visualizado.
+- **Laranja/amarelo:** apenas parte dos envios ou das visualizações foi concluída (um de vários destinatários).
+- **Vermelho:** houve erro no envio ou na visualização.
+- **Verde:** enviado ou visualizado.
+
+### Progresso da solicitação
+
+Nas solicitações de envio de documentos, a coluna **Solicitações** exibe uma barra de progresso, que mostra quantos dos documentos solicitados já foram recebidos.
+
+### Solicitações de assinatura
+
+Para arquivos com solicitação de assinatura, a coluna **Assinatura** mostra o status geral do fluxo: **Em andamento**, **Cancelado** ou **Assinado**. A coluna **Informações** traz três ícones que abrem os detalhes do envio.
+
+![Status do fluxo na coluna Assinatura e ícones da coluna Informações.](images/meus-documentos/significado-dos-icones/02-status-assinatura.png)
+
+- **E-mail(s) enviado(s):** lista o nome de todos os participantes do fluxo e registra a data e a hora em que o e-mail foi enviado a cada um.
+
+    ![Janela E-mail(s) enviado(s).](images/meus-documentos/significado-dos-icones/03-emails-enviados.png)
+
+- **Link(s) visualizado(s):** lista os participantes e registra a data e a hora em que cada um abriu e visualizou o documento.
+
+    ![Janela Link(s) visualizado(s).](images/meus-documentos/significado-dos-icones/04-links-visualizados.png)
+
+- **Envio WhatsApp:** lista os participantes e permite enviar a cada um o link de acesso e assinatura do documento pelo WhatsApp.
+
+    ![Janela Envio WhatsApp, com um ícone por participante.](images/meus-documentos/significado-dos-icones/05-envio-whatsapp.png)
+
+!!! info "Importante"
+    O ícone do WhatsApp só aparece na coluna **Informações** se o número de telefone do participante tiver sido informado. Mantenha os telefones dos contatos atualizados e confira os dados ao criar a solicitação.
 
 ## Veja também
 

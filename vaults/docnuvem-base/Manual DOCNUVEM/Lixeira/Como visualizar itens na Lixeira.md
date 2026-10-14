@@ -6,13 +6,17 @@ Este guia explica como acessar a Lixeira e consultar os itens excluídos.
 
 No menu principal, clicar em **Lixeira**.
 
-[Print sugerido: images/lixeira/como-visualizar-itens-na-lixeira/01-menu-lixeira.png | Instrução: mostrar o menu principal com a opção Lixeira destacada.]
+![[Manual DOCNUVEM/images/lixeira/como-visualizar-itens-na-lixeira/01-menu-lixeira.png]]
+
+*Figura 1. Menu principal, com a opção Lixeira destacada.*
 
 ## 2. Visualizar os itens excluídos
 
 Na tela da **Lixeira**, consultar os arquivos e diretórios excluídos por usuários.
 
-[Print sugerido: images/lixeira/como-visualizar-itens-na-lixeira/02-listagem-lixeira.png | Instrução: mostrar a tela da Lixeira com a listagem de arquivos e diretórios excluídos.]
+![[Manual DOCNUVEM/images/lixeira/como-visualizar-itens-na-lixeira/02-listagem-lixeira.png]]
+
+*Figura 2. Tela da Lixeira, com os arquivos excluídos.*
 
 ## 3. Conferir o prazo de permanência
 
@@ -20,7 +24,9 @@ Os itens permanecem na Lixeira pelo prazo definido nas configurações da instâ
 
 Normalmente, esse prazo varia entre 7 e 30 dias. A própria tela da Lixeira exibe uma mensagem informando o prazo configurado.
 
-[Print sugerido: images/lixeira/como-visualizar-itens-na-lixeira/03-prazo-permanencia.png | Instrução: mostrar a mensagem da Lixeira que informa o prazo de permanência dos itens excluídos.]
+![[Manual DOCNUVEM/images/lixeira/como-visualizar-itens-na-lixeira/03-prazo-permanencia.png]]
+
+*Figura 3. Mensagem da Lixeira com o prazo de permanência dos itens.*
 
 ## Resultado esperado
 

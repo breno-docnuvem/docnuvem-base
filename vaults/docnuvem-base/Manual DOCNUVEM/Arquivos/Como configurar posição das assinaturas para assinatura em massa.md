@@ -8,13 +8,17 @@ No menu principal, acessar **Tipos cadastrados** e clicar em **Tipo de documento
 
 Depois, selecionar o tipo de documento que será configurado para assinatura.
 
-[Print sugerido: images/arquivos/como-configurar-posicao-das-assinaturas-para-assinatura-em-massa/01-tipo-documento.png | Instrução: mostrar a listagem de tipos de documento com um tipo selecionado para edição.]
+![[Manual DOCNUVEM/images/arquivos/como-configurar-posicao-das-assinaturas-para-assinatura-em-massa/01-tipo-documento.png]]
+
+*Figura 1. Listagem de tipos de documento, com o tipo selecionado para edição.*
 
 ## 2. Abrir configurações de assinatura
 
 No cadastro do tipo de documento, acessar a aba **Configurações de assinatura**.
 
-[Print sugerido: images/arquivos/como-configurar-posicao-das-assinaturas-para-assinatura-em-massa/02-configuracoes-assinatura.png | Instrução: mostrar a aba Configurações de assinatura aberta.]
+![[Manual DOCNUVEM/images/arquivos/como-configurar-posicao-das-assinaturas-para-assinatura-em-massa/02-configuracoes-assinatura.png]]
+
+*Figura 2. Aba Configurações de assinatura do tipo de documento.*
 
 ## 3. Adicionar assinantes
 
@@ -22,7 +26,9 @@ Na seção **Assinantes**, clicar em **Adicionar** e selecionar os assinantes ne
 
 Importante: a configuração de posição de assinatura só é habilitada quando há assinantes cadastrados no tipo de documento.
 
-[Print sugerido: images/arquivos/como-configurar-posicao-das-assinaturas-para-assinatura-em-massa/03-adicionar-assinantes.png | Instrução: mostrar a seção Assinantes com o botão Adicionar destacado.]
+![[Manual DOCNUVEM/images/arquivos/como-configurar-posicao-das-assinaturas-para-assinatura-em-massa/03-adicionar-assinantes.png]]
+
+*Figura 3. Seção Assinantes, com o botão Adicionar destacado.*
 
 ## 4. Configurar a posição das assinaturas
 

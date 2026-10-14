@@ -16,7 +16,9 @@ Na configuração de itens do modelo, adicionar um item com o tipo **Data de ven
 
 Para detalhes sobre itens de modelo, consulte [[Como configurar itens no Modelo de documento]].
 
-[Print sugerido: images/arquivos/como-configurar-data-de-vencimento-para-contratos/02-item-data-vencimento.png | Instrução: mostrar a área de itens do modelo com o tipo Data de vencimento destacado.]
+![[Manual DOCNUVEM/images/arquivos/como-configurar-data-de-vencimento-para-contratos/02-item-data-vencimento.png]]
+
+*Figura 1. Tipo de item Data de vencimento, na área de itens do modelo.*
 
 ## 3. Salvar o modelo
 

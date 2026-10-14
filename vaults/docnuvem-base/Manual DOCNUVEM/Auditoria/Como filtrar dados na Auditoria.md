@@ -6,7 +6,9 @@ Use os filtros da Auditoria para encontrar ações específicas no histórico do
 
 Na tela de **Auditoria**, clicar no balão **Filtrar**.
 
-[Print sugerido: images/auditoria/como-filtrar-dados-na-auditoria/01-balao-filtrar.png | Instrução: mostrar a tela de Auditoria com o balão Filtrar destacado.]
+![[Manual DOCNUVEM/images/auditoria/como-filtrar-dados-na-auditoria/01-balao-filtrar.png]]
+
+*Figura 1. Painel de filtros da Auditoria, com os botões Limpar Filtros e Filtrar.*
 
 ## 2. Definir os critérios de busca
 

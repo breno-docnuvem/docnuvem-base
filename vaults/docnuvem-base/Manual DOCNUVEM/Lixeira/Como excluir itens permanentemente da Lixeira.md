@@ -12,7 +12,9 @@ Na tela da **Lixeira**, marcar o checkbox ao lado dos arquivos ou diretórios qu
 
 Clicar em **Ações**.
 
-[Print sugerido: images/lixeira/como-excluir-itens-permanentemente-da-lixeira/02-menu-acoes.png | Instrução: mostrar o botão Ações na tela da Lixeira destacado.]
+![[Manual DOCNUVEM/images/lixeira/como-excluir-itens-permanentemente-da-lixeira/02-menu-acoes.png]]
+
+*Figura 1. Menu Ações, com as opções Excluir selecionados e Excluir todos.*
 
 ## 3. Excluir permanentemente
 

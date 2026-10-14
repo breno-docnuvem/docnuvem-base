@@ -6,13 +6,11 @@ O módulo **Meus documentos** é a área principal de organização, consulta e 
 
 No menu lateral do Docnuvem, clique em **Meus documentos**.
 
-!!! tip "Print sugerido"
-    `images/meus-documentos/acessando-a-tela-de-meus-documentos/01-menu-meus-documentos.png` — mostrar o menu lateral com a opção **Meus documentos** destacada por uma seta vermelha.
+![Menu lateral com a opção Meus documentos destacada.](images/meus-documentos/acessando-a-tela-de-meus-documentos/01-menu-meus-documentos.png)
 
 Ao abrir a tela, o sistema exibe os documentos e diretórios disponíveis para o usuário, conforme as empresas cadastradas, as permissões do perfil e a organização definida na instância.
 
-!!! tip "Print sugerido"
-    `images/meus-documentos/acessando-a-tela-de-meus-documentos/02-tela-meus-documentos.png` — mostrar a tela Meus documentos aberta, com a árvore de pastas e a área de documentos visíveis.
+![Tela Meus documentos, com o caminho de navegação e a lista de pastas.](images/meus-documentos/acessando-a-tela-de-meus-documentos/02-tela-meus-documentos.png)
 
 **Resultado esperado:** o usuário visualiza a estrutura de pastas e arquivos disponível no Docnuvem e pode iniciar a navegação ou o gerenciamento dos documentos.
 
@@ -20,6 +18,9 @@ Ao abrir a tela, o sistema exibe os documentos e diretórios disponíveis para o
 
 1. Clique no nome da pasta que deseja acessar — o Docnuvem exibe o conteúdo do diretório selecionado.
 2. Logo abaixo do campo **Buscar**, o sistema exibe o caminho até o diretório atual, para ajudar a entender em qual pasta você está navegando.
+
+    ![Caminho de navegação exibido abaixo do campo Buscar.](images/meus-documentos/navegando-nos-diretorios/02-caminho-navegacao.png)
+
 3. Para retornar à pasta raiz ou a uma pasta anterior, clique sobre o nome desejado no caminho de navegação.
 
 **Resultado esperado:** o usuário consegue navegar entre os diretórios, localizar documentos e retornar para pastas anteriores com facilidade.
@@ -34,6 +35,9 @@ As ações disponíveis podem incluir criar pasta, renomear, mover ou enviar o d
 
 1. Localize a pasta que deseja gerenciar.
 2. Clique no botão **Ações** da pasta, ou clique com o botão direito do mouse sobre o nome do diretório.
+
+    ![Menu de ações de uma pasta, aberto pelo botão Ações ou pelo clique direito.](images/meus-documentos/gerenciando-diretorios/02-acoes-diretorio.png)
+
 3. Escolha a ação necessária — **Criar pasta**, **Renomear**, **Mover** ou **Mover para lixeira** — e siga as instruções exibidas pelo sistema.
 
 **Resultado esperado:** o diretório é atualizado conforme a ação escolhida, mantendo a estrutura de pastas organizada.
@@ -44,6 +48,9 @@ Permite enviar uma pasta completa do computador para o Docnuvem, incluindo seus 
 
 1. Abra o local onde a pasta importada deverá ser criada.
 2. Clique em **Adicionar** e selecione **Upload de pasta**.
+
+    ![Botão Adicionar aberto, com a opção Upload de pasta.](images/meus-documentos/importando-diretorios/02-upload-de-pasta.png)
+
 3. Selecione a pasta no computador e confirme o upload. Aguarde a conclusão do envio para garantir que os arquivos e subpastas sejam importados corretamente.
 
 **Resultado esperado:** a pasta é importada para o Docnuvem com seus arquivos e subpastas, respeitando a estrutura selecionada no computador.
@@ -56,6 +63,9 @@ Os documentos representam os arquivos armazenados no Docnuvem: contratos, certif
 
 1. Navegue pela estrutura de pastas até encontrar o arquivo que deseja gerenciar.
 2. Clique no botão **Ações** do documento, ou clique com o botão direito do mouse sobre o nome do arquivo.
+
+    ![Menu de ações de um documento, aberto pelo botão Ações ou pelo clique direito.](images/meus-documentos/gerenciando-documentos/02-acoes-documento.png)
+
 3. Selecione a ação desejada — **Mover**, **Renomear** ou **Mover para lixeira** — e siga as orientações exibidas pelo sistema.
 
 **Resultado esperado:** o Docnuvem executa a ação selecionada e atualiza a tela conforme a alteração realizada no documento.
@@ -72,6 +82,9 @@ Os documentos representam os arquivos armazenados no Docnuvem: contratos, certif
 
 1. Abra a pasta onde o arquivo deverá ser armazenado.
 2. Clique em **Adicionar** e selecione **Upload de arquivo**.
+
+    ![Botão Adicionar aberto, com a opção Upload de arquivo.](images/meus-documentos/importando-documentos/02-upload-de-arquivo.png)
+
 3. Escolha o arquivo no computador e confirme o envio. Aguarde o carregamento ser concluído antes de sair da tela.
 
 **Resultado esperado:** o arquivo é importado para a pasta selecionada e passa a aparecer na listagem de documentos.
@@ -108,6 +121,8 @@ A visualização de um documento reúne abas com dados importantes para entender
 
 Clique com o botão esquerdo do mouse sobre o nome do documento para abri-lo. A tela apresenta a visualização do arquivo junto ao painel de detalhes, com seis abas:
 
+![Tela de detalhes do documento, com a aba Geral selecionada.](images/meus-documentos/visualizando-documentos-e-seus-detalhes/02-aba-geral.png)
+
 - **Geral:** informações fundamentais de identificação e localização do arquivo — **Nome e Extensão**, **Datas de Envio e Alteração**, **Responsável** (usuário que enviou o arquivo), **Diretório** (pasta onde o documento está armazenado) e **Registro** (ID único do documento no Docnuvem).
 - **Digitalização:** metadados associados à captura e indexação do documento — **Título**, **Autor**, **Assunto**, **Digitalizado em**, **Local** e **Digitalizado por**.
 
@@ -130,7 +145,14 @@ Um formulário pode ser vinculado a um documento para registrar informações ad
 
 1. Clique com o botão direito sobre o arquivo e selecione **Vincular formulário**. Em seguida, escolha o formulário a relacionar ao documento.
 2. Após a vinculação, o Docnuvem exibe um ícone no arquivo, indicando que o documento possui informações de formulário associadas.
+
+    ![Ícone que indica o formulário vinculado ao documento.](images/meus-documentos/vinculando-e-editando-informacoes-de-formulario-no-documento/02-indicador-formulario.png)
+
 3. Para editar as informações, clique no ícone exibido no documento — o sistema abre a tela de edição com os campos do formulário vinculado. Também é possível editar pela aba **Formulário**, dentro da tela do arquivo.
+
+    ![Janela de edição das informações do formulário vinculado.](images/meus-documentos/vinculando-e-editando-informacoes-de-formulario-no-documento/03-edicao-pelo-icone.png)
+
+    ![Aba Formulário na visualização do arquivo.](images/meus-documentos/vinculando-e-editando-informacoes-de-formulario-no-documento/04-aba-formulario.png)
 
 **Resultado esperado:** o documento passa a exibir o indicador de formulário vinculado, e suas informações podem ser atualizadas tanto pelo ícone da listagem quanto pela aba Formulário.
 
@@ -151,9 +173,20 @@ O fluxo de solicitação é o mesmo nas duas versões:
 
 1. Localize o arquivo PDF que deverá ser assinado.
 2. Clique com o botão direito no arquivo e selecione **Solicitar assinatura**.
+
+    ![Menu do arquivo, com a opção Solicitar assinatura destacada (assinador V1).](images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/02-v1-solicitar-assinatura.png)
+
 3. Adicione os assinantes pela opção **Contatos** ou pela opção **Cadastrar** — ao cadastrar, informe **Nome**, **CPF/CNPJ**, **E-mail** e **Telefone** (**Nome** e **E-mail** são obrigatórios). É possível ativar a selfie do assinante (as selfies ficam disponíveis nos relatórios); no V2, também é possível ativar o token OTP, enviado por e-mail, WhatsApp ou SMS.
+
+    ![Janela de assinatura, com as opções Contato e Cadastrar (assinador V1).](images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/03-v1-adicionar-assinante.png)
+
 4. Se necessário, ative **Considerar a ordem de assinatura** para que os links sejam enviados aos assinantes conforme a ordem definida.
+
+    ![Lista de assinantes e opção Considerar ordem de assinatura (assinador V1).](images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/04-v1-ordem-de-assinatura.png)
+
 5. Adicione os observadores que acompanharão o processo sem assinar o arquivo — eles recebem notificações a cada atualização da solicitação. Se necessário, altere a mensagem enviada aos participantes.
+
+    ![Área de Observadores, com as opções E-mail, Usuário e Contato (assinador V1).](images/meus-documentos/como-solicitar-uma-assinatura-em-um-arquivo/05-v1-observadores-e-mensagem.png)
 
 <!-- TODO: a nota-fonte referenciava "Solicitações e Compartilhamentos", ainda sem conteúdo no vault (pasta TODO). Detalhar aqui como alterar permissões e informações de envio quando essa nota existir — confirmar com Breno. -->
 
@@ -182,7 +215,13 @@ Envia uma solicitação para que outra pessoa preencha o formulário definido no
 
 1. Localize a pasta onde o documento deverá ser armazenado após o preenchimento.
 2. Clique com o botão direito na pasta e selecione **Selecionar preenchimento de documento** (ou selecione a pasta, clique em **Ações** e escolha essa opção).
+
+    ![Menu da pasta, com a opção de preenchimento de documento destacada.](images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/02-selecionar-preenchimento.png)
+
 3. Na janela de configurações, selecione o modelo de documento e informe o nome do documento que será criado. Se necessário, defina a data de vencimento da solicitação e o contato do destinatário.
+
+    ![Janela de preenchimento de documento, com o destinatário adicionado.](images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/03-configurar-solicitacao.png)
+
 4. Clique em **Solicitar**. O destinatário recebe a solicitação por e-mail ou WhatsApp e, ao acessá-la, pode preencher o formulário.
 
 ### Como solicitar o envio de documentos
@@ -194,10 +233,19 @@ Permite pedir arquivos a um usuário ou contato e definir a pasta em que eles de
 
 1. Localize a pasta onde os documentos solicitados deverão ser salvos.
 2. Clique com o botão direito na pasta e selecione **Solicitar envio de documentos**.
+
+    ![Menu da pasta, com a opção Solicitar envio de documentos destacada.](images/meus-documentos/como-solicitar-o-envio-de-documentos/02-solicitar-envio-de-documentos.png)
+
 3. Selecione o modelo de solicitação e informe o nome do documento que será criado. Se necessário, defina a data de vencimento da solicitação.
 4. Preencha os complementos do documento, se necessário (esses campos também podem ser configurados diretamente no modelo de solicitação).
 5. No campo **Enviar formulário de preenchimento do modelo de documento para**, escolha o tipo de destinatário: **E-mail/Telefone**, **Usuário** ou **Contato**. Ao selecionar **Contato**, informe nome, e-mail e telefone do destinatário.
+
+    ![Janela de solicitação de envio, com as opções E-mail, Usuário e Contato.](images/meus-documentos/como-solicitar-o-envio-de-documentos/05-definir-destinatario.png)
+
 6. Clique em **Adicionar** para incluir o destinatário na solicitação.
+
+    ![Destinatário adicionado à solicitação, com o botão Adicionar destacado.](images/meus-documentos/como-solicitar-o-envio-de-documentos/06-adicionar-destinatario.png)
+
 7. Clique em **Solicitar** para disparar a solicitação.
 
 <!-- TODO: as notas-fonte referenciam "Solicitações e Compartilhamentos" e "Significado dos ícones", ainda sem conteúdo no vault (pasta TODO). Completar quando existirem — confirmar com Breno. -->
@@ -207,9 +255,18 @@ Permite pedir arquivos a um usuário ou contato e definir a pasta em que eles de
 Depois que uma solicitação de envio de documentos é criada, o Docnuvem permite acompanhar os arquivos recebidos e devolver como pendência os itens enviados incorretamente.
 
 1. Acesse a pasta onde está a solicitação de documentos.
+
+    ![Pasta com a solicitação e o campo de progresso destacado.](images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/01-pasta-da-solicitacao.png)
+
 2. Clique no ícone da solicitação para acessar os documentos enviados pelo destinatário.
+
+    ![Coluna Solicitações, com a barra de progresso da solicitação.](images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/02-icone-da-solicitacao.png)
+
 3. Selecione a solicitação que deseja revisar e clique para expandi-la — os status dos itens enviados ficam visíveis para conferência.
 4. Selecione os documentos enviados incorretamente, marque **Enviar pendência** e escreva uma breve observação informando o motivo da recusa ao destinatário.
+
+    ![Itens da solicitação, com a opção Enviar pendência e o campo de observação.](images/meus-documentos/como-acompanhar-e-enviar-pendencias-no-envio-de-documentos/04-enviar-pendencia.png)
+
 5. Clique em **Salvar**. As notificações de pendência são enviadas automaticamente ao destinatário.
 
 !!! info "Importante"
@@ -219,6 +276,9 @@ Depois que uma solicitação de envio de documentos é criada, o Docnuvem permit
 
 1. Acesse a pasta onde está a solicitação de documentos.
 2. Clique no ícone da solicitação para acessar as solicitações vinculadas à pasta.
+
+    ![Coluna Solicitações, com a barra de progresso da solicitação.](images/meus-documentos/como-excluir-uma-solicitacao-de-documentos/02-icone-da-solicitacao.png)
+
 3. Selecione a solicitação que deseja excluir e clique para expandi-la.
 4. Na solicitação expandida, clique em **Desvincular** para excluí-la.
 
@@ -233,16 +293,28 @@ Programa o envio recorrente de pedidos de documentos. O preenchimento dos dados 
 
 1. Localize a pasta onde os documentos enviados deverão ser salvos.
 2. Clique com o botão direito na pasta e selecione **Agendar solicitação (envio de documentos)**.
+
+    ![Menu da pasta, com a opção Agendar solicitação (envio de documentos) destacada.](images/meus-documentos/como-agendar-solicitacoes-de-documentos/02-agendar-solicitacao.png)
+
 3. Selecione o modelo de solicitação, informe o nome do documento e, se necessário, defina a data de vencimento.
+
+    ![Janela de agendamento, com a lista de modelos de solicitação e a estrutura de pastas por período.](images/meus-documentos/como-agendar-solicitacoes-de-documentos/03-dados-do-documento.png)
+
 4. Preencha os complementos do documento, se necessário.
 5. Se necessário, ative a criação automática de diretórios para que os documentos sejam salvos conforme o período em que forem enviados: **Anual**, **Anual/Mensal**, **Anual/Trimestral** ou **Anual/Trimestral/Mensal**.
 6. Informe o destinatário da solicitação e clique em **Adicionar**.
+
+    ![Destinatário informado, com o botão Adicionar.](images/meus-documentos/como-agendar-solicitacoes-de-documentos/06-adicionar-destinatario.png)
+
 7. Configure a frequência da solicitação:
     - **Diário:** informe a hora de envio.
     - **Semanal:** informe a hora e selecione os dias da semana.
     - **Quinzenal:** informe a hora — a solicitação é enviada quinzenalmente a partir da data de criação do agendamento.
     - **Mensal:** informe a hora e o tipo de execução mensal — **Dia fixo do mês** (informe o dia), **Primeira/Última Ocorrência do Mês** (dia da semana e ocorrência) ou **Último dia do mês** (envio automático no último dia do mês vigente).
     - **Anual:** informe a hora, o mês e o dia.
+
+    ![Tipo de agendamento: Diário, Semanal, Quinzenal, Mensal e Anual.](images/meus-documentos/como-agendar-solicitacoes-de-documentos/07-frequencia-agendamento.png)
+
 8. Revise as informações da solicitação e confirme o agendamento.
 
 **Resultado esperado:** o Docnuvem envia as solicitações de documentos conforme a frequência definida.
@@ -251,6 +323,9 @@ Programa o envio recorrente de pedidos de documentos. O preenchimento dos dados 
 
 1. Acesse a pasta onde está o agendamento que deseja alterar.
 2. Clique no ícone de agendamentos para visualizar os agendamentos vinculados à pasta.
+
+    ![Ícone de agendamentos ao lado da pasta.](images/meus-documentos/como-editar-um-agendamento-de-solicitacao-de-documentos/02-icone-de-agendamentos.png)
+
 3. Localize o agendamento e clique no ícone de edição.
 4. Atualize as informações necessárias e clique em **Salvar**.
 
@@ -258,6 +333,9 @@ Programa o envio recorrente de pedidos de documentos. O preenchimento dos dados 
 
 1. Acesse a pasta onde está o agendamento que deseja cancelar.
 2. Clique no ícone de agendamentos para visualizar os agendamentos vinculados à pasta.
+
+    ![Ícone de agendamentos ao lado da pasta.](images/meus-documentos/como-cancelar-um-agendamento-de-solicitacao-de-documentos/02-icone-de-agendamentos.png)
+
 3. Localize o agendamento e clique no ícone de lixeira.
 
 ## Veja também

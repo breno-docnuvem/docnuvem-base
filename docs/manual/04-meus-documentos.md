@@ -214,7 +214,7 @@ Envia uma solicitação para que outra pessoa preencha o formulário definido no
     O [modelo de documento](08-meus-modelos.md#modelo-de-documento) que será utilizado deve estar cadastrado no sistema.
 
 1. Localize a pasta onde o documento deverá ser armazenado após o preenchimento.
-2. Clique com o botão direito na pasta e selecione **Selecionar preenchimento de documento** (ou selecione a pasta, clique em **Ações** e escolha essa opção).
+2. Clique com o botão direito na pasta e selecione **Solicitar preenchimento de documento** (ou selecione a pasta, clique em **Ações** e escolha essa opção).
 
     ![Menu da pasta, com a opção de preenchimento de documento destacada.](images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/02-selecionar-preenchimento.png)
 

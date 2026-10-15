@@ -14,7 +14,7 @@ Na tela **Meus documentos**, localize a pasta onde o documento deverá ser armaz
 
 ## 2. Selecionar o preenchimento de documento
 
-Clique com o botão direito na pasta e selecione **Selecionar preenchimento de documento**. Também é possível selecionar a pasta, clicar em **Ações** e escolher essa opção.
+Clique com o botão direito na pasta e selecione **Solicitar preenchimento de documento**. Também é possível selecionar a pasta, clicar em **Ações** e escolher essa opção.
 
 ![[Manual DOCNUVEM/images/meus-documentos/como-solicitar-o-preenchimento-de-documentos/02-selecionar-preenchimento.png]]
 
